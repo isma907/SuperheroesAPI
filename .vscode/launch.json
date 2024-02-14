@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug Express Typescript",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/node_modules/nodemon/bin/nodemon.js",
+            "args": ["--inspect=9229", "${workspaceFolder}/build/index.js"],
+            "restart": true,
+            "runtimeArgs": [
+                "--inspect=9229"
+            ],
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "sourceMaps": true,
+            "outFiles": [
+                "${workspaceFolder}/build/**/*.js"
+            ],
+            "preLaunchTask": "tsc: watch - tsconfig.json"
+        }
+    ]
+}

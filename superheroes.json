@@ -1,0 +1,3915 @@
+[
+  {
+    "name": "Abin Sur",
+    "_id": "65caacb24da4b1f6eae2e136",
+    "firstAppearance": "Showcase #22 (October, 1959)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/3-abin-sur.jpg"
+  },
+  {
+    "name": "Abomination",
+    "_id": "65caacb24da4b1f6eae2e137",
+    "firstAppearance": "Tales to Astonish #90",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/4-abomination.jpg"
+  },
+  {
+    "name": "Abraxas",
+    "_id": "65caacb24da4b1f6eae2e138",
+    "firstAppearance": "Fantastic Four Annual #2001",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/5-abraxas.jpg"
+  },
+  {
+    "name": "Absorbing Man",
+    "_id": "65caacb24da4b1f6eae2e139",
+    "firstAppearance": "Daredevil #1 (April, 1964) (As Rocky Davis)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/6-absorbing-man.jpg"
+  },
+  {
+    "name": "Adam Monroe",
+    "_id": "65caacb24da4b1f6eae2e13a",
+    "firstAppearance": "Heroes S02E01 - Four Months Later...",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/7-adam-monroe.jpg"
+  },
+  {
+    "name": "Adam Strange",
+    "_id": "65caacb24da4b1f6eae2e13b",
+    "firstAppearance": "Outsiders #6 (April, 1986)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/8-adam-strange.jpg"
+  },
+  {
+    "name": "Agent Bob",
+    "_id": "65caacb24da4b1f6eae2e13c",
+    "firstAppearance": "Cable & Deadpool #38 (May, 2007)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/10-agent-bob.jpg"
+  },
+  {
+    "name": "Agent Zero",
+    "_id": "65caacb24da4b1f6eae2e13d",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/11-agent-zero.jpg"
+  },
+  {
+    "name": "Air-Walker",
+    "_id": "65caacb24da4b1f6eae2e13e",
+    "firstAppearance": "Fantastic Four #120",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/12-air-walker.jpg"
+  },
+  {
+    "name": "Ajax",
+    "_id": "65caacb24da4b1f6eae2e13f",
+    "firstAppearance": "Deadpool #14 (March, 1998)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/13-ajax.jpg"
+  },
+  {
+    "name": "Alan Scott",
+    "_id": "65caacb24da4b1f6eae2e140",
+    "firstAppearance": "All-American Comics 16 (1940)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/14-alan-scott.jpg"
+  },
+  {
+    "name": "Alex Mercer",
+    "_id": "65caacb24da4b1f6eae2e141",
+    "firstAppearance": "-",
+    "publisher": "Wildstorm",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/15-alex-mercer.jpg"
+  },
+  {
+    "name": "Alfred Pennyworth",
+    "_id": "65caacb24da4b1f6eae2e142",
+    "firstAppearance": "Batman #16 (April, 1943)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/17-alfred-pennyworth.jpg"
+  },
+  {
+    "name": "Alien",
+    "_id": "65caacb24da4b1f6eae2e143",
+    "firstAppearance": "Alien (1979)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/18-alien.jpg"
+  },
+  {
+    "name": "Amazo",
+    "_id": "65caacb24da4b1f6eae2e144",
+    "firstAppearance": "Brave and the Bold #30 (July, 1960)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/20-amazo.jpg"
+  },
+  {
+    "name": "Angel",
+    "_id": "65caacb24da4b1f6eae2e145",
+    "firstAppearance": "-",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/23-angel.jpg"
+  },
+  {
+    "name": "Angel",
+    "_id": "65caacb24da4b1f6eae2e146",
+    "firstAppearance": "X-Men #54-56 (1969)",
+    "publisher": "Archangel",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/24-angel.jpg"
+  },
+  {
+    "name": "Angel Dust",
+    "_id": "65caacb24da4b1f6eae2e147",
+    "firstAppearance": "Morlocks #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/25-angel-dust.jpg"
+  },
+  {
+    "name": "Angel Salvadore",
+    "_id": "65caacb24da4b1f6eae2e148",
+    "firstAppearance": "New X-Men #118 (November, 2001)",
+    "publisher": "Tempest",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/26-angel-salvadore.jpg"
+  },
+  {
+    "name": "Animal Man",
+    "_id": "65caacb24da4b1f6eae2e149",
+    "firstAppearance": "Strange Adventures #180 (September, 1965)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/28-animal-man.jpg"
+  },
+  {
+    "name": "Annihilus",
+    "_id": "65caacb24da4b1f6eae2e14a",
+    "firstAppearance": "Fantastic Four Annual #6 (1968)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/29-annihilus.jpg"
+  },
+  {
+    "name": "Ant-Man",
+    "_id": "65caacb24da4b1f6eae2e14b",
+    "firstAppearance": "Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)",
+    "publisher": "Giant-Man",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/30-ant-man.jpg"
+  },
+  {
+    "name": "Anti-Monitor",
+    "_id": "65caacb24da4b1f6eae2e14d",
+    "firstAppearance": "Crisis on Infinite Earths #4",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/32-anti-monitor.jpg"
+  },
+  {
+    "name": "Anti-Venom",
+    "_id": "65caacb24da4b1f6eae2e14e",
+    "firstAppearance": "Amazing Spider-Man #569 (as Anti-Venom)",
+    "publisher": "Toxin",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/34-anti-venom.jpg"
+  },
+  {
+    "name": "Apocalypse",
+    "_id": "65caacb24da4b1f6eae2e14f",
+    "firstAppearance": "X-Factor #5 (June, 1986)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/35-apocalypse.jpg"
+  },
+  {
+    "name": "Aquababy",
+    "_id": "65caacb24da4b1f6eae2e150",
+    "firstAppearance": "Aquaman #23 (October, 1965)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/36-aquababy.jpg"
+  },
+  {
+    "name": "Aqualad",
+    "_id": "65caacb24da4b1f6eae2e151",
+    "firstAppearance": "Adventure Comics #269 (February, 1960)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/37-aqualad.jpg"
+  },
+  {
+    "name": "Aquaman",
+    "_id": "65caacb24da4b1f6eae2e152",
+    "firstAppearance": "More Fun Comics #73 (November, 1941)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/38-aquaman.jpg"
+  },
+  {
+    "name": "Arachne",
+    "_id": "65caacb24da4b1f6eae2e153",
+    "firstAppearance": "Marvel Super Heroes Secret Wars #6",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/39-arachne.jpg"
+  },
+  {
+    "name": "Archangel",
+    "_id": "65caacb24da4b1f6eae2e154",
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "publisher": "Angel",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/40-archangel.jpg"
+  },
+  {
+    "name": "Arclight",
+    "_id": "65caacb24da4b1f6eae2e155",
+    "firstAppearance": "(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/41-arclight.jpg"
+  },
+  {
+    "name": "Ardina",
+    "_id": "65caacb24da4b1f6eae2e156",
+    "firstAppearance": "The Order #4",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/42-ardina.jpg"
+  },
+  {
+    "name": "Ares",
+    "_id": "65caacb24da4b1f6eae2e157",
+    "firstAppearance": "Thor #129",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/43-ares.jpg"
+  },
+  {
+    "name": "Ariel",
+    "_id": "65caacb24da4b1f6eae2e158",
+    "firstAppearance": "Fallen Angels #1 (1987)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/44-ariel.jpg"
+  },
+  {
+    "name": "Armor",
+    "_id": "65caacb24da4b1f6eae2e159",
+    "firstAppearance": "Astonishing X-Men #4 (2004)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/45-armor.jpg"
+  },
+  {
+    "name": "Atlas",
+    "_id": "65caacb24da4b1f6eae2e15a",
+    "firstAppearance": "Incredible Hulk #449",
+    "publisher": "Goliath",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/48-atlas.jpg"
+  },
+  {
+    "name": "Atlas",
+    "_id": "65caacb24da4b1f6eae2e15b",
+    "firstAppearance": "Action Comics #121",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/49-atlas.jpg"
+  },
+  {
+    "name": "Atom Girl",
+    "_id": "65caacb24da4b1f6eae2e15c",
+    "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/52-atom-girl.jpg"
+  },
+  {
+    "name": "Atom II",
+    "_id": "65caacb24da4b1f6eae2e15d",
+    "firstAppearance": "Showcase #34",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/53-atom-ii.jpg"
+  },
+  {
+    "name": "Aurora",
+    "_id": "65caacb24da4b1f6eae2e15e",
+    "firstAppearance": "X-Men #121 (1979)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/56-aurora.jpg"
+  },
+  {
+    "name": "Azazel",
+    "_id": "65caacb24da4b1f6eae2e15f",
+    "firstAppearance": "Uncanny X-Men #428 (2003)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/57-azazel.jpg"
+  },
+  {
+    "name": "Azrael",
+    "_id": "65caacb24da4b1f6eae2e160",
+    "firstAppearance": "Batman #672 (February, 2008)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/58-azrael.jpg"
+  },
+  {
+    "name": "Bane",
+    "_id": "65caacb24da4b1f6eae2e161",
+    "firstAppearance": "Batman: Vengeance of Bane #1 (January, 1993)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/60-bane.jpg"
+  },
+  {
+    "name": "Banshee",
+    "_id": "65caacb24da4b1f6eae2e162",
+    "firstAppearance": "X-Men #28 (January, 1967)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/61-banshee.jpg"
+  },
+  {
+    "name": "Bantam",
+    "_id": "65caacb24da4b1f6eae2e163",
+    "firstAppearance": "Civil War: Front Line #3 (September, 2006)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/62-bantam.jpg"
+  },
+  {
+    "name": "Batgirl IV",
+    "_id": "65caacb24da4b1f6eae2e165",
+    "firstAppearance": "Batman: Legends of the Dark Knight #120",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/66-batgirl-iv.jpg"
+  },
+  {
+    "name": "Batgirl VI",
+    "_id": "65caacb24da4b1f6eae2e166",
+    "firstAppearance": "Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009)",
+    "publisher": "Spoiler",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/68-batgirl-vi.jpg"
+  },
+  {
+    "name": "Batman",
+    "_id": "65caacb24da4b1f6eae2e167",
+    "firstAppearance": "Batman Beyond #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/69-batman.jpg"
+  },
+  {
+    "name": "Batman",
+    "_id": "65caacb24da4b1f6eae2e168",
+    "firstAppearance": "Detective Comics #27",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/70-batman.jpg"
+  },
+  {
+    "name": "Batman II",
+    "_id": "65caacb24da4b1f6eae2e169",
+    "firstAppearance": "-",
+    "publisher": "Nightwing",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/71-batman-ii.jpg"
+  },
+  {
+    "name": "Battlestar",
+    "_id": "65caacb24da4b1f6eae2e16a",
+    "firstAppearance": "Captain America #323 (1986); (as Bucky)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/72-battlestar.jpg"
+  },
+  {
+    "name": "Batwoman V",
+    "_id": "65caacb24da4b1f6eae2e16b",
+    "firstAppearance": "52 #7 (June, 2006)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/73-batwoman-v.jpg"
+  },
+  {
+    "name": "Beast",
+    "_id": "65caacb24da4b1f6eae2e16c",
+    "firstAppearance": "X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/75-beast.jpg"
+  },
+  {
+    "name": "Beast Boy",
+    "_id": "65caacb24da4b1f6eae2e16d",
+    "firstAppearance": "Doom Patrol #99 (November, 1965)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/76-beast-boy.jpg"
+  },
+  {
+    "name": "Ben 10",
+    "_id": "65caacb24da4b1f6eae2e16e",
+    "firstAppearance": "Ben 10 S01E01",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/78-ben-10.jpg"
+  },
+  {
+    "name": "Beta Ray Bill",
+    "_id": "65caacb24da4b1f6eae2e16f",
+    "firstAppearance": "Thor #337",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/79-beta-ray-bill.jpg"
+  },
+  {
+    "name": "Beyonder",
+    "_id": "65caacb24da4b1f6eae2e170",
+    "firstAppearance": "Marvel Super-Heroes Secret Wars #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/80-beyonder.jpg"
+  },
+  {
+    "name": "Big Barda",
+    "_id": "65caacb24da4b1f6eae2e171",
+    "firstAppearance": "Mister Miracle (Volume 1) #4",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/81-big-barda.jpg"
+  },
+  {
+    "name": "Big Daddy",
+    "_id": "65caacb24da4b1f6eae2e172",
+    "firstAppearance": "Kick-Ass #4",
+    "publisher": "Icon Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/82-big-daddy.jpg"
+  },
+  {
+    "name": "Big Man",
+    "_id": "65caacb24da4b1f6eae2e173",
+    "firstAppearance": "Amazing Spider-Man # 10 (1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/83-big-man.jpg"
+  },
+  {
+    "name": "Bill Harken",
+    "_id": "65caacb24da4b1f6eae2e174",
+    "firstAppearance": "-",
+    "publisher": "SyFy",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/84-bill-harken.jpg"
+  },
+  {
+    "name": "Bionic Woman",
+    "_id": "65caacb24da4b1f6eae2e175",
+    "firstAppearance": "-",
+    "publisher": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/87-bionic-woman.jpg"
+  },
+  {
+    "name": "Bird-Brain",
+    "_id": "65caacb24da4b1f6eae2e176",
+    "firstAppearance": "The New Mutants #56 (October, 1987)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/88-bird-brain.jpg"
+  },
+  {
+    "name": "Bishop",
+    "_id": "65caacb24da4b1f6eae2e177",
+    "firstAppearance": "Uncanny X-Men #282 (November, 1991)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/92-bishop.jpg"
+  },
+  {
+    "name": "Bizarro",
+    "_id": "65caacb24da4b1f6eae2e178",
+    "firstAppearance": "Superboy Vol. 1 #68 (1958)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/93-bizarro.jpg"
+  },
+  {
+    "name": "Black Adam",
+    "_id": "65caacb24da4b1f6eae2e179",
+    "firstAppearance": "Marvel Family #1 (December, 1945)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/95-black-adam.jpg"
+  },
+  {
+    "name": "Black Bolt",
+    "_id": "65caacb24da4b1f6eae2e17a",
+    "firstAppearance": "Fantastic Four #45 (December, 1965)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/96-black-bolt.jpg"
+  },
+  {
+    "name": "Black Canary",
+    "_id": "65caacb24da4b1f6eae2e17b",
+    "firstAppearance": "Justice League of America (Volume 1) #75",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/97-black-canary.jpg"
+  },
+  {
+    "name": "Black Canary",
+    "_id": "65caacb24da4b1f6eae2e17c",
+    "firstAppearance": "Flash Comics #86 (August, 1947)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/98-black-canary.jpg"
+  },
+  {
+    "name": "Black Cat",
+    "_id": "65caacb24da4b1f6eae2e17d",
+    "firstAppearance": "Amazing Spider-Man #194 (July, 1979)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/99-black-cat.jpg"
+  },
+  {
+    "name": "Black Flash",
+    "_id": "65caacb24da4b1f6eae2e17e",
+    "firstAppearance": "Flash Vol 2 #138",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/100-black-flash.jpg"
+  },
+  {
+    "name": "Black Knight III",
+    "_id": "65caacb24da4b1f6eae2e17f",
+    "firstAppearance": "Avengers #47 (1967)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/102-black-knight-iii.jpg"
+  },
+  {
+    "name": "Black Lightning",
+    "_id": "65caacb24da4b1f6eae2e180",
+    "firstAppearance": "Black Lightning #1 (April 1977)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/103-black-lightning.jpg"
+  },
+  {
+    "name": "Black Mamba",
+    "_id": "65caacb24da4b1f6eae2e181",
+    "firstAppearance": "Marvel Two-In-One #64",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/104-black-mamba.jpg"
+  },
+  {
+    "name": "Black Manta",
+    "_id": "65caacb24da4b1f6eae2e182",
+    "firstAppearance": "Aquaman #35 (August, 1967)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/105-black-manta.jpg"
+  },
+  {
+    "name": "Black Panther",
+    "_id": "65caacb24da4b1f6eae2e183",
+    "firstAppearance": "Fantastic Four Vol. 1 #52 (1966)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/106-black-panther.jpg"
+  },
+  {
+    "name": "Black Widow",
+    "_id": "65caacb24da4b1f6eae2e184",
+    "firstAppearance": "Tales of Suspense #52",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/107-black-widow.jpg"
+  },
+  {
+    "name": "Blackout",
+    "_id": "65caacb24da4b1f6eae2e185",
+    "firstAppearance": "Ghost Rider Vol 3 #2 (June, 1990)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/109-blackout.jpg"
+  },
+  {
+    "name": "Blackwing",
+    "_id": "65caacb24da4b1f6eae2e186",
+    "firstAppearance": "Daredevil #118 (February, 1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/110-blackwing.jpg"
+  },
+  {
+    "name": "Blackwulf",
+    "_id": "65caacb24da4b1f6eae2e187",
+    "firstAppearance": "Thunderstrike #6 (March, 1994)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/111-blackwulf.jpg"
+  },
+  {
+    "name": "Blade",
+    "_id": "65caacb24da4b1f6eae2e188",
+    "firstAppearance": "Tomb of Dracula Vol. 1 #10 (1973)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/112-blade.jpg"
+  },
+  {
+    "name": "Bling!",
+    "_id": "65caacb24da4b1f6eae2e189",
+    "firstAppearance": "X-Men #171 (2005)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/114-bling!.jpg"
+  },
+  {
+    "name": "Blink",
+    "_id": "65caacb24da4b1f6eae2e18a",
+    "firstAppearance": "Uncanny X-Men #317 (October, 1994)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/115-blink.jpg"
+  },
+  {
+    "name": "Blizzard II",
+    "_id": "65caacb24da4b1f6eae2e18b",
+    "firstAppearance": "Iron Man #223 (1987)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/118-blizzard-ii.jpg"
+  },
+  {
+    "name": "Blob",
+    "_id": "65caacb24da4b1f6eae2e18c",
+    "firstAppearance": "X-Men #3 (1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/119-blob.jpg"
+  },
+  {
+    "name": "Bloodaxe",
+    "_id": "65caacb24da4b1f6eae2e18d",
+    "firstAppearance": "(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/120-bloodaxe.jpg"
+  },
+  {
+    "name": "Bloodhawk",
+    "_id": "65caacb24da4b1f6eae2e18e",
+    "firstAppearance": "X-Men (2099) #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/121-bloodhawk.jpg"
+  },
+  {
+    "name": "Blue Beetle III",
+    "_id": "65caacb24da4b1f6eae2e18f",
+    "firstAppearance": "Infinite Crisis #3 (2006)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/126-blue-beetle-iii.jpg"
+  },
+  {
+    "name": "Boba Fett",
+    "_id": "65caacb24da4b1f6eae2e190",
+    "firstAppearance": "-",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/127-boba-fett.jpg"
+  },
+  {
+    "name": "Boom-Boom",
+    "_id": "65caacb24da4b1f6eae2e191",
+    "firstAppearance": "Secret Wars II #5",
+    "publisher": "Meltdown",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/130-boom-boom.jpg"
+  },
+  {
+    "name": "Box IV",
+    "_id": "65caacb24da4b1f6eae2e192",
+    "firstAppearance": "Alpha Flight #16",
+    "publisher": "Gemini V",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/135-box-iv.jpg"
+  },
+  {
+    "name": "Brainiac",
+    "_id": "65caacb24da4b1f6eae2e193",
+    "firstAppearance": "Action Comics #242 (July 1958)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/136-brainiac.jpg"
+  },
+  {
+    "name": "Brainiac 5",
+    "_id": "65caacb24da4b1f6eae2e194",
+    "firstAppearance": "Brainiac 5's primary invention is his personal force-shield generator. Brainiac 5 re-discovered the technical process behind original Brainiac's force-shield belt, which is capable of generating a virtually impervious field of protection. The belt must be",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/137-brainiac-5.jpg"
+  },
+  {
+    "name": "Brundlefly",
+    "_id": "65caacb24da4b1f6eae2e195",
+    "firstAppearance": "The Fly (1986)",
+    "publisher": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/139-brundlefly.jpg"
+  },
+  {
+    "name": "Buffy",
+    "_id": "65caacb24da4b1f6eae2e196",
+    "firstAppearance": "Dark Horse Presents 1998 Annual",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/140-buffy.jpg"
+  },
+  {
+    "name": "Bullseye",
+    "_id": "65caacb24da4b1f6eae2e197",
+    "firstAppearance": "Daredevil #131 (March, 1976)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/141-bullseye.jpg"
+  },
+  {
+    "name": "Bumblebee",
+    "_id": "65caacb24da4b1f6eae2e198",
+    "firstAppearance": "Teen Titans #45",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/142-bumblebee.jpg"
+  },
+  {
+    "name": "Bushido",
+    "_id": "65caacb24da4b1f6eae2e199",
+    "firstAppearance": "Titans: Secret Files & Origins #2",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/144-bushido.jpg"
+  },
+  {
+    "name": "Cable",
+    "_id": "65caacb24da4b1f6eae2e19a",
+    "firstAppearance": "New Mutants #86 (as Cable)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/145-cable.jpg"
+  },
+  {
+    "name": "Callisto",
+    "_id": "65caacb24da4b1f6eae2e19b",
+    "firstAppearance": "X-MEN (first series) #169",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/146-callisto.jpg"
+  },
+  {
+    "name": "Cameron Hicks",
+    "_id": "65caacb24da4b1f6eae2e19c",
+    "firstAppearance": "-",
+    "publisher": "SyFy",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/147-cameron-hicks.jpg"
+  },
+  {
+    "name": "Cannonball",
+    "_id": "65caacb24da4b1f6eae2e19d",
+    "firstAppearance": "Marvel Graphic Novel #4 (1982)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/148-cannonball.jpg"
+  },
+  {
+    "name": "Captain America",
+    "_id": "65caacb24da4b1f6eae2e19e",
+    "firstAppearance": "Captain America Comics #1 (March 1941)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/149-captain-america.jpg"
+  },
+  {
+    "name": "Captain Atom",
+    "_id": "65caacb24da4b1f6eae2e19f",
+    "firstAppearance": "Captain Atom #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/150-captain-atom.jpg"
+  },
+  {
+    "name": "Captain Britain",
+    "_id": "65caacb24da4b1f6eae2e1a0",
+    "firstAppearance": "Captain Britain #1 (October, 1976)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/151-captain-britain.jpg"
+  },
+  {
+    "name": "Captain Cold",
+    "_id": "65caacb24da4b1f6eae2e1a1",
+    "firstAppearance": "Flash Vol 4 #6 (April, 2012)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/152-captain-cold.jpg"
+  },
+  {
+    "name": "Captain Hindsight",
+    "_id": "65caacb24da4b1f6eae2e1a2",
+    "firstAppearance": "South Park S14 E11 \"Coon 2: Hindsight\"",
+    "publisher": "South Park",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/154-captain-hindsight.jpg"
+  },
+  {
+    "name": "Captain Marvel",
+    "_id": "65caacb24da4b1f6eae2e1a3",
+    "firstAppearance": "Whiz Comics no. 2 (1940)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/156-captain-marvel.jpg"
+  },
+  {
+    "name": "Captain Marvel",
+    "_id": "65caacb24da4b1f6eae2e1a4",
+    "firstAppearance": "Ms. Marvel #1",
+    "publisher": "Binary",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/157-captain-marvel.jpg"
+  },
+  {
+    "name": "Captain Marvel II",
+    "_id": "65caacb24da4b1f6eae2e1a5",
+    "firstAppearance": "Current incarnation: (As Freddy Freeman) The Power of Shazam #3 (May, 1995)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/158-captain-marvel-ii.jpg"
+  },
+  {
+    "name": "Captain Planet",
+    "_id": "65caacb24da4b1f6eae2e1a6",
+    "firstAppearance": "Captain Planet and the Planeteers (TV Series)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/160-captain-planet.jpg"
+  },
+  {
+    "name": "Carnage",
+    "_id": "65caacb24da4b1f6eae2e1a7",
+    "firstAppearance": "Amazing Spider-Man #344 (February, 1991)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/162-carnage.jpg"
+  },
+  {
+    "name": "Catwoman",
+    "_id": "65caacb24da4b1f6eae2e1a8",
+    "firstAppearance": "Detective Comics #569",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/165-catwoman.jpg"
+  },
+  {
+    "name": "Century",
+    "_id": "65caacb24da4b1f6eae2e1a9",
+    "firstAppearance": "Force Works #1 (July, 1994)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/167-century.jpg"
+  },
+  {
+    "name": "Chamber",
+    "_id": "65caacb24da4b1f6eae2e1aa",
+    "firstAppearance": "Generation X #1 (November, 1994)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/169-chamber.jpg"
+  },
+  {
+    "name": "Chameleon",
+    "_id": "65caacb24da4b1f6eae2e1ab",
+    "firstAppearance": "Amazing Spider-Man #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/170-chameleon.jpg"
+  },
+  {
+    "name": "Changeling",
+    "_id": "65caacb24da4b1f6eae2e1ac",
+    "firstAppearance": "Uncanny X-Men #35 (August, 1967)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/171-changeling.jpg"
+  },
+  {
+    "name": "Cheetah",
+    "_id": "65caacb24da4b1f6eae2e1ad",
+    "firstAppearance": "Wonder Woman Vol1 #6 (Fall 1943)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/172-cheetah.jpg"
+  },
+  {
+    "name": "Cheetah III",
+    "_id": "65caacb24da4b1f6eae2e1ae",
+    "firstAppearance": "Wonder Woman Vol2 #7 (Sept 1987)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/174-cheetah-iii.jpg"
+  },
+  {
+    "name": "Chuck Norris",
+    "_id": "65caacb24da4b1f6eae2e1af",
+    "firstAppearance": "-",
+    "publisher": null,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/176-chuck-norris.jpg"
+  },
+  {
+    "name": "Citizen Steel",
+    "_id": "65caacb24da4b1f6eae2e1b0",
+    "firstAppearance": "Justice Society of America Vol 3 #2 (March, 2007)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/177-citizen-steel.jpg"
+  },
+  {
+    "name": "Claire Bennet",
+    "_id": "65caacb24da4b1f6eae2e1b1",
+    "firstAppearance": "Heroes S01E01",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/178-claire-bennet.jpg"
+  },
+  {
+    "name": "Cloak",
+    "_id": "65caacb24da4b1f6eae2e1b2",
+    "firstAppearance": "Spectacular Spiderman #64",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/180-cloak.jpg"
+  },
+  {
+    "name": "Clock King",
+    "_id": "65caacb24da4b1f6eae2e1b3",
+    "firstAppearance": "World's Finest #111 (August, 1960)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/181-clock-king.jpg"
+  },
+  {
+    "name": "Colossus",
+    "_id": "65caacb24da4b1f6eae2e1b4",
+    "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/185-colossus.jpg"
+  },
+  {
+    "name": "Copycat",
+    "_id": "65caacb24da4b1f6eae2e1b5",
+    "firstAppearance": "New Mutants #98 (February, 1991)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/186-copycat.jpg"
+  },
+  {
+    "name": "Cottonmouth",
+    "_id": "65caacb24da4b1f6eae2e1b6",
+    "firstAppearance": "Captain America #310 (October, 1985)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/188-cottonmouth.jpg"
+  },
+  {
+    "name": "Crystal",
+    "_id": "65caacb24da4b1f6eae2e1b7",
+    "firstAppearance": "Fantastic Four #45 (1965)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/191-crystal.jpg"
+  },
+  {
+    "name": "Cyborg",
+    "_id": "65caacb24da4b1f6eae2e1b8",
+    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/194-cyborg.jpg"
+  },
+  {
+    "name": "Cyborg Superman",
+    "_id": "65caacb24da4b1f6eae2e1b9",
+    "firstAppearance": "Adventures of Superman #466 (May, 1990)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/195-cyborg-superman.jpg"
+  },
+  {
+    "name": "Cyclops",
+    "_id": "65caacb24da4b1f6eae2e1ba",
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/196-cyclops.jpg"
+  },
+  {
+    "name": "Dagger",
+    "_id": "65caacb24da4b1f6eae2e1bb",
+    "firstAppearance": "Spectacular Spiderman #64",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/198-dagger.jpg"
+  },
+  {
+    "name": "Daphne Powell",
+    "_id": "65caacb24da4b1f6eae2e1bc",
+    "firstAppearance": "No Ordinary Family S01E01 (2010)",
+    "publisher": "ABC Studios",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/200-daphne-powell.jpg"
+  },
+  {
+    "name": "Daredevil",
+    "_id": "65caacb24da4b1f6eae2e1bd",
+    "firstAppearance": "Daredevil #1 (April, 1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/201-daredevil.jpg"
+  },
+  {
+    "name": "Darkhawk",
+    "_id": "65caacb24da4b1f6eae2e1be",
+    "firstAppearance": "Darkhawk #1 (March, 1991)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/202-darkhawk.jpg"
+  },
+  {
+    "name": "Darkman",
+    "_id": "65caacb24da4b1f6eae2e1bf",
+    "firstAppearance": "Darkman (August 24, 1990)",
+    "publisher": "Universal Studios",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/203-darkman.jpg"
+  },
+  {
+    "name": "Darkseid",
+    "_id": "65caacb24da4b1f6eae2e1c0",
+    "firstAppearance": "Superman's Pal Jimmy Olsen #134 (November 1970)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/204-darkseid.jpg"
+  },
+  {
+    "name": "Darkstar",
+    "_id": "65caacb24da4b1f6eae2e1c1",
+    "firstAppearance": "Champions #7 (August, 1976)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/206-darkstar.jpg"
+  },
+  {
+    "name": "Darth Maul",
+    "_id": "65caacb24da4b1f6eae2e1c2",
+    "firstAppearance": "Star Wars Episode I: The Phantom Menace (1999)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/207-darth-maul.jpg"
+  },
+  {
+    "name": "Darth Vader",
+    "_id": "65caacb24da4b1f6eae2e1c3",
+    "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/208-darth-vader.jpg"
+  },
+  {
+    "name": "Dash",
+    "_id": "65caacb24da4b1f6eae2e1c4",
+    "firstAppearance": "The Incredibles (Movies, 2004)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/209-dash.jpg"
+  },
+  {
+    "name": "Data",
+    "_id": "65caacb24da4b1f6eae2e1c5",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/210-data.jpg"
+  },
+  {
+    "name": "Dazzler",
+    "_id": "65caacb24da4b1f6eae2e1c6",
+    "firstAppearance": "X-Men #130 (1980)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/211-dazzler.jpg"
+  },
+  {
+    "name": "Deadman",
+    "_id": "65caacb24da4b1f6eae2e1c7",
+    "firstAppearance": "Strange Adventures #205 (October, 1967)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/212-deadman.jpg"
+  },
+  {
+    "name": "Deadpool",
+    "_id": "65caacb24da4b1f6eae2e1c8",
+    "firstAppearance": "New Mutants #98 (February, 1991)",
+    "publisher": "Evil Deadpool",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/213-deadpool.jpg"
+  },
+  {
+    "name": "Deadshot",
+    "_id": "65caacb24da4b1f6eae2e1c9",
+    "firstAppearance": "Batman #59 (June, 1950)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/214-deadshot.jpg"
+  },
+  {
+    "name": "Deathlok",
+    "_id": "65caacb24da4b1f6eae2e1ca",
+    "firstAppearance": "Astonishing Tales #25 (August, 1974)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/215-deathlok.jpg"
+  },
+  {
+    "name": "Deathstroke",
+    "_id": "65caacb24da4b1f6eae2e1cb",
+    "firstAppearance": "New Teen Titans #2 (December, 1980)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/216-deathstroke.jpg"
+  },
+  {
+    "name": "Demogoblin",
+    "_id": "65caacb24da4b1f6eae2e1cc",
+    "firstAppearance": "Web of Spider-Man #86 (March, 1992)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/217-demogoblin.jpg"
+  },
+  {
+    "name": "Destroyer",
+    "_id": "65caacb24da4b1f6eae2e1cd",
+    "firstAppearance": "Journey into Mystery #118 (1965)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/218-destroyer.jpg"
+  },
+  {
+    "name": "Diamondback",
+    "_id": "65caacb24da4b1f6eae2e1ce",
+    "firstAppearance": "Luke Cage, Hero for Hire#1 (1972)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/219-diamondback.jpg"
+  },
+  {
+    "name": "DL Hawkins",
+    "_id": "65caacb24da4b1f6eae2e1cf",
+    "firstAppearance": "Heroes S01E05 - Hiros",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/220-dl-hawkins.jpg"
+  },
+  {
+    "name": "Doc Samson",
+    "_id": "65caacb24da4b1f6eae2e1d0",
+    "firstAppearance": "Incredible Hulk #141 (July, 1971)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/221-doc-samson.jpg"
+  },
+  {
+    "name": "Doctor Doom",
+    "_id": "65caacb24da4b1f6eae2e1d1",
+    "firstAppearance": "Fantastic Four #5 (July 1962)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/222-doctor-doom.jpg"
+  },
+  {
+    "name": "Doctor Fate",
+    "_id": "65caacb24da4b1f6eae2e1d2",
+    "firstAppearance": "More Fun Comics #55 (May, 1940)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/224-doctor-fate.jpg"
+  },
+  {
+    "name": "Doctor Octopus",
+    "_id": "65caacb24da4b1f6eae2e1d3",
+    "firstAppearance": "Amazing Spider-Man #3 (July 1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/225-doctor-octopus.jpg"
+  },
+  {
+    "name": "Doctor Strange",
+    "_id": "65caacb24da4b1f6eae2e1d4",
+    "firstAppearance": "Strange Tales #110 (July, 1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/226-doctor-strange.jpg"
+  },
+  {
+    "name": "Domino",
+    "_id": "65caacb24da4b1f6eae2e1d5",
+    "firstAppearance": "X-Force #8 (March, 1992)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/227-domino.jpg"
+  },
+  {
+    "name": "Donatello",
+    "_id": "65caacb24da4b1f6eae2e1d6",
+    "firstAppearance": "Teenage Mutant Ninja Turtles #1",
+    "publisher": "IDW Publishing",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/228-donatello.jpg"
+  },
+  {
+    "name": "Doomsday",
+    "_id": "65caacb24da4b1f6eae2e1d7",
+    "firstAppearance": "Superman: The Man of Steel #17 (Nov 1992)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/230-doomsday.jpg"
+  },
+  {
+    "name": "Doppelganger",
+    "_id": "65caacb24da4b1f6eae2e1d8",
+    "firstAppearance": "Infinity War #1 (1992)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/231-doppelganger.jpg"
+  },
+  {
+    "name": "Dormammu",
+    "_id": "65caacb24da4b1f6eae2e1d9",
+    "firstAppearance": "Strange Tales #126 (1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/232-dormammu.jpg"
+  },
+  {
+    "name": "Dr Manhattan",
+    "_id": "65caacb24da4b1f6eae2e1da",
+    "firstAppearance": "Watchmen #1 (September, 1986)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/233-dr-manhattan.jpg"
+  },
+  {
+    "name": "Drax the Destroyer",
+    "_id": "65caacb24da4b1f6eae2e1db",
+    "firstAppearance": "Iron Man #55 (February, 1973)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/234-drax-the-destroyer.jpg"
+  },
+  {
+    "name": "Ego",
+    "_id": "65caacb24da4b1f6eae2e1dc",
+    "firstAppearance": "THOR #132",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/235-ego.jpg"
+  },
+  {
+    "name": "Elastigirl",
+    "_id": "65caacb24da4b1f6eae2e1dd",
+    "firstAppearance": "The Incredibles (Movies, 2004)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/236-elastigirl.jpg"
+  },
+  {
+    "name": "Electro",
+    "_id": "65caacb24da4b1f6eae2e1de",
+    "firstAppearance": "Amazing Spider-Man #9 (1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/237-electro.jpg"
+  },
+  {
+    "name": "Elektra",
+    "_id": "65caacb24da4b1f6eae2e1df",
+    "firstAppearance": "Daredevil #168",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/238-elektra.jpg"
+  },
+  {
+    "name": "Elle Bishop",
+    "_id": "65caacb24da4b1f6eae2e1e0",
+    "firstAppearance": "Heroes S02E05 - Fight or Flight",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/239-elle-bishop.jpg"
+  },
+  {
+    "name": "Elongated Man",
+    "_id": "65caacb24da4b1f6eae2e1e1",
+    "firstAppearance": "Flash #112 (1960)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/240-elongated-man.jpg"
+  },
+  {
+    "name": "Emma Frost",
+    "_id": "65caacb24da4b1f6eae2e1e2",
+    "firstAppearance": "UNCANNY X-MEN #132",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/241-emma-frost.jpg"
+  },
+  {
+    "name": "Enchantress",
+    "_id": "65caacb24da4b1f6eae2e1e3",
+    "firstAppearance": "Strange Adventures #187",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/242-enchantress.jpg"
+  },
+  {
+    "name": "Ethan Hunt",
+    "_id": "65caacb24da4b1f6eae2e1e4",
+    "firstAppearance": "-",
+    "publisher": null,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/245-ethan-hunt.jpg"
+  },
+  {
+    "name": "Etrigan",
+    "_id": "65caacb24da4b1f6eae2e1e5",
+    "firstAppearance": "Demon #1 (September, 1972)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/246-etrigan.jpg"
+  },
+  {
+    "name": "Evil Deadpool",
+    "_id": "65caacb24da4b1f6eae2e1e6",
+    "firstAppearance": "Deadpool Vol 2 #44 (December, 2011)",
+    "publisher": "Deadpool",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/247-evil-deadpool.jpg"
+  },
+  {
+    "name": "Evilhawk",
+    "_id": "65caacb24da4b1f6eae2e1e7",
+    "firstAppearance": "Darkhawk #20 (October, 1992)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/248-evilhawk.jpg"
+  },
+  {
+    "name": "Exodus",
+    "_id": "65caacb24da4b1f6eae2e1e8",
+    "firstAppearance": "X-Factor #92 (July, 1993)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/249-exodus.jpg"
+  },
+  {
+    "name": "Falcon",
+    "_id": "65caacb24da4b1f6eae2e1e9",
+    "firstAppearance": "Captain America #117 (September, 1969)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/251-falcon.jpg"
+  },
+  {
+    "name": "Fallen One II",
+    "_id": "65caacb24da4b1f6eae2e1ea",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/252-fallen-one-ii.jpg"
+  },
+  {
+    "name": "Faora",
+    "_id": "65caacb24da4b1f6eae2e1eb",
+    "firstAppearance": "Action Comics #471 (May, 1977)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/253-faora.jpg"
+  },
+  {
+    "name": "Feral",
+    "_id": "65caacb24da4b1f6eae2e1ec",
+    "firstAppearance": "NEW MUTANTS #99",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/254-feral.jpg"
+  },
+  {
+    "name": "Fin Fang Foom",
+    "_id": "65caacb24da4b1f6eae2e1ed",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/256-fin-fang-foom.jpg"
+  },
+  {
+    "name": "Firebird",
+    "_id": "65caacb24da4b1f6eae2e1ee",
+    "firstAppearance": "INCREDIBLE HULK Vol. 2 #265",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/257-firebird.jpg"
+  },
+  {
+    "name": "Firelord",
+    "_id": "65caacb24da4b1f6eae2e1ef",
+    "firstAppearance": "THOR Vol. 1 #225",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/258-firelord.jpg"
+  },
+  {
+    "name": "Firestar",
+    "_id": "65caacb24da4b1f6eae2e1f0",
+    "firstAppearance": "Uncanny X-Men #193 (May, 1985)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/259-firestar.jpg"
+  },
+  {
+    "name": "Firestorm",
+    "_id": "65caacb24da4b1f6eae2e1f1",
+    "firstAppearance": "Firestorm (Volume 3) #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/260-firestorm.jpg"
+  },
+  {
+    "name": "Firestorm",
+    "_id": "65caacb24da4b1f6eae2e1f2",
+    "firstAppearance": "Firestorm #1 (March, 1978)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/261-firestorm.jpg"
+  },
+  {
+    "name": "Flash",
+    "_id": "65caacb24da4b1f6eae2e1f3",
+    "firstAppearance": "Flash Comics #1 (January 1940)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/263-flash.jpg"
+  },
+  {
+    "name": "Flash II",
+    "_id": "65caacb24da4b1f6eae2e1f4",
+    "firstAppearance": "Showcase #4 (October, 1956)",
+    "publisher": "Black Racer",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/265-flash-ii.jpg"
+  },
+  {
+    "name": "Flash III",
+    "_id": "65caacb24da4b1f6eae2e1f5",
+    "firstAppearance": "Flash #110 (January, 1960)",
+    "publisher": "Speed Demon",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/266-flash-iii.jpg"
+  },
+  {
+    "name": "Flash IV",
+    "_id": "65caacb24da4b1f6eae2e1f6",
+    "firstAppearance": "(as Impulse) Flash v.2 #91 (June 1994)* (as Kid Flash) Teen Titans v.3 #4 (December 2003)",
+    "publisher": "Impulse",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/267-flash-iv.jpg"
+  },
+  {
+    "name": "Forge",
+    "_id": "65caacb24da4b1f6eae2e1f7",
+    "firstAppearance": "Uncanny X-Men #184",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/268-forge.jpg"
+  },
+  {
+    "name": "Franklin Richards",
+    "_id": "65caacb24da4b1f6eae2e1f8",
+    "firstAppearance": "Fantastic Four Annual #6",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/269-franklin-richards.jpg"
+  },
+  {
+    "name": "Franklin Storm",
+    "_id": "65caacb24da4b1f6eae2e1f9",
+    "firstAppearance": "FANTASTIC FOUR #31",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/270-franklin-storm.jpg"
+  },
+  {
+    "name": "Frenzy",
+    "_id": "65caacb24da4b1f6eae2e1fa",
+    "firstAppearance": "X-Factor Vol 1 #4",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/271-frenzy.jpg"
+  },
+  {
+    "name": "Galactus",
+    "_id": "65caacb24da4b1f6eae2e1fb",
+    "firstAppearance": "Fantastic Four #48 (March 1966)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/273-galactus.jpg"
+  },
+  {
+    "name": "Gambit",
+    "_id": "65caacb24da4b1f6eae2e1fc",
+    "firstAppearance": "(as Gambit) Uncanny X-Men #266 (1990), (as Death) X-Men #184 (2006)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/274-gambit.jpg"
+  },
+  {
+    "name": "Gamora",
+    "_id": "65caacb24da4b1f6eae2e1fd",
+    "firstAppearance": "Strange Tales #180 (June, 1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/275-gamora.jpg"
+  },
+  {
+    "name": "Gary Bell",
+    "_id": "65caacb24da4b1f6eae2e1fe",
+    "firstAppearance": "-",
+    "publisher": "SyFy",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/277-gary-bell.jpg"
+  },
+  {
+    "name": "General Zod",
+    "_id": "65caacb24da4b1f6eae2e1ff",
+    "firstAppearance": "Action Comics #845",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/278-general-zod.jpg"
+  },
+  {
+    "name": "Ghost Rider",
+    "_id": "65caacb24da4b1f6eae2e200",
+    "firstAppearance": "Marvel Spotlight #5 (August, 1972)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/280-ghost-rider.jpg"
+  },
+  {
+    "name": "Giganta",
+    "_id": "65caacb24da4b1f6eae2e201",
+    "firstAppearance": "Wonder Woman (Volume 1) #9 (1944)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/284-giganta.jpg"
+  },
+  {
+    "name": "Gladiator",
+    "_id": "65caacb24da4b1f6eae2e202",
+    "firstAppearance": "X-Men Vol 1 #107 October, 1977",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/285-gladiator.jpg"
+  },
+  {
+    "name": "Goblin Queen",
+    "_id": "65caacb24da4b1f6eae2e203",
+    "firstAppearance": "Uncanny X-Men #168",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/286-goblin-queen.jpg"
+  },
+  {
+    "name": "Godzilla",
+    "_id": "65caacb24da4b1f6eae2e204",
+    "firstAppearance": "Godzilla (1954)",
+    "publisher": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/287-godzilla.jpg"
+  },
+  {
+    "name": "Gog",
+    "_id": "65caacb24da4b1f6eae2e205",
+    "firstAppearance": "Incredible Hulk #257 (1981)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+  },
+  {
+    "name": "Goku",
+    "_id": "65caacb24da4b1f6eae2e206",
+    "firstAppearance": "Dragon Ball #1",
+    "publisher": "Shueisha",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/289-goku.jpg"
+  },
+  {
+    "name": "Gorilla Grodd",
+    "_id": "65caacb24da4b1f6eae2e207",
+    "firstAppearance": "Flash #106 (May, 1959)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/294-gorilla-grodd.jpg"
+  },
+  {
+    "name": "Gravity",
+    "_id": "65caacb24da4b1f6eae2e208",
+    "firstAppearance": "Gravity #1 (August, 2005)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/296-gravity.jpg"
+  },
+  {
+    "name": "Greedo",
+    "_id": "65caacb24da4b1f6eae2e209",
+    "firstAppearance": "-",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/297-greedo.jpg"
+  },
+  {
+    "name": "Green Arrow",
+    "_id": "65caacb24da4b1f6eae2e20a",
+    "firstAppearance": "More Fun Comics #73 (November 1941)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/298-green-arrow.jpg"
+  },
+  {
+    "name": "Green Goblin",
+    "_id": "65caacb24da4b1f6eae2e20b",
+    "firstAppearance": "Amazing Spider-Man #14 (July, 1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/299-green-goblin.jpg"
+  },
+  {
+    "name": "Green Goblin II",
+    "_id": "65caacb24da4b1f6eae2e20c",
+    "firstAppearance": "Amzing Spide-Man #31",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/300-green-goblin-ii.jpg"
+  },
+  {
+    "name": "Groot",
+    "_id": "65caacb24da4b1f6eae2e20d",
+    "firstAppearance": "Tales to Astonish #13 (November, 1960)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/303-groot.jpg"
+  },
+  {
+    "name": "Guy Gardner",
+    "_id": "65caacb24da4b1f6eae2e20e",
+    "firstAppearance": "Green Lantern Vol 2 #59",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/305-guy-gardner.jpg"
+  },
+  {
+    "name": "Hal Jordan",
+    "_id": "65caacb24da4b1f6eae2e20f",
+    "firstAppearance": "Showcase #22",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/306-hal-jordan.jpg"
+  },
+  {
+    "name": "Han Solo",
+    "_id": "65caacb24da4b1f6eae2e210",
+    "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/307-han-solo.jpg"
+  },
+  {
+    "name": "Hancock",
+    "_id": "65caacb24da4b1f6eae2e211",
+    "firstAppearance": "-",
+    "publisher": "Sony Pictures",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/308-hancock.jpg"
+  },
+  {
+    "name": "Harley Quinn",
+    "_id": "65caacb24da4b1f6eae2e212",
+    "firstAppearance": "Batman: Harley Quinn (October, 1999)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/309-harley-quinn.jpg"
+  },
+  {
+    "name": "Harry Potter",
+    "_id": "65caacb24da4b1f6eae2e213",
+    "firstAppearance": "Harry Potter and the Philosopher's Stone",
+    "publisher": "J. K. Rowling",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/310-harry-potter.jpg"
+  },
+  {
+    "name": "Havok",
+    "_id": "65caacb24da4b1f6eae2e214",
+    "firstAppearance": "X-MEN #58",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/311-havok.jpg"
+  },
+  {
+    "name": "Hawk",
+    "_id": "65caacb24da4b1f6eae2e215",
+    "firstAppearance": "Showcase #75 (June, 1968)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/312-hawk.jpg"
+  },
+  {
+    "name": "Hawkeye",
+    "_id": "65caacb24da4b1f6eae2e216",
+    "firstAppearance": "Tales of Suspense #57 (September, 1964)",
+    "publisher": "Goliath",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/313-hawkeye.jpg"
+  },
+  {
+    "name": "Hawkeye II",
+    "_id": "65caacb24da4b1f6eae2e217",
+    "firstAppearance": "Young Avengers #1 (April, 2005)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/314-hawkeye-ii.jpg"
+  },
+  {
+    "name": "Hawkgirl",
+    "_id": "65caacb24da4b1f6eae2e218",
+    "firstAppearance": "JSA Secret Files #1 (August 1999)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/315-hawkgirl.jpg"
+  },
+  {
+    "name": "Heat Wave",
+    "_id": "65caacb24da4b1f6eae2e219",
+    "firstAppearance": "Flash #140 (November, 1963)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/320-heat-wave.jpg"
+  },
+  {
+    "name": "Hela",
+    "_id": "65caacb24da4b1f6eae2e21a",
+    "firstAppearance": "Journey into Mystery #102",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/321-hela.jpg"
+  },
+  {
+    "name": "Hellboy",
+    "_id": "65caacb24da4b1f6eae2e21b",
+    "firstAppearance": "Dime Press #4 (May 1, 1993)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/322-hellboy.jpg"
+  },
+  {
+    "name": "Hellcat",
+    "_id": "65caacb24da4b1f6eae2e21c",
+    "firstAppearance": "Avengers #144 (February, 1976)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/323-hellcat.jpg"
+  },
+  {
+    "name": "Hercules",
+    "_id": "65caacb24da4b1f6eae2e21d",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/325-hercules.jpg"
+  },
+  {
+    "name": "Hit-Girl",
+    "_id": "65caacb24da4b1f6eae2e21e",
+    "firstAppearance": "-",
+    "publisher": "Icon Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/327-hit-girl.jpg"
+  },
+  {
+    "name": "Hope Summers",
+    "_id": "65caacb24da4b1f6eae2e21f",
+    "firstAppearance": "X-Men Vol 2 #205 (2008)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/330-hope-summers.jpg"
+  },
+  {
+    "name": "Hulk",
+    "_id": "65caacb24da4b1f6eae2e220",
+    "firstAppearance": "Incredible Hulk #1 (May, 1962)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/332-hulk.jpg"
+  },
+  {
+    "name": "Human Torch",
+    "_id": "65caacb24da4b1f6eae2e221",
+    "firstAppearance": "Fantastic Four #1 (1961)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/333-human-torch.jpg"
+  },
+  {
+    "name": "Huntress",
+    "_id": "65caacb24da4b1f6eae2e222",
+    "firstAppearance": "Huntress #1 (April 1989)",
+    "publisher": "Batgirl III",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/334-huntress.jpg"
+  },
+  {
+    "name": "Husk",
+    "_id": "65caacb24da4b1f6eae2e223",
+    "firstAppearance": "Rom Annual #3 (November, 1984)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/335-husk.jpg"
+  },
+  {
+    "name": "Hybrid",
+    "_id": "65caacb24da4b1f6eae2e224",
+    "firstAppearance": "Venom Along Came A Spider #2 (as Hybrid)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/336-hybrid.jpg"
+  },
+  {
+    "name": "Hydro-Man",
+    "_id": "65caacb24da4b1f6eae2e225",
+    "firstAppearance": "Amazing Spider-Man #212 (January, 1981)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/337-hydro-man.jpg"
+  },
+  {
+    "name": "Hyperion",
+    "_id": "65caacb24da4b1f6eae2e226",
+    "firstAppearance": "Avengers #85",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/338-hyperion.jpg"
+  },
+  {
+    "name": "Iceman",
+    "_id": "65caacb24da4b1f6eae2e227",
+    "firstAppearance": "X-Men #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/339-iceman.jpg"
+  },
+  {
+    "name": "Impulse",
+    "_id": "65caacb24da4b1f6eae2e228",
+    "firstAppearance": "Flash Vol 2 #92 (July, 1994)",
+    "publisher": "Flash IV",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/340-impulse.jpg"
+  },
+  {
+    "name": "Indiana Jones",
+    "_id": "65caacb24da4b1f6eae2e229",
+    "firstAppearance": "Raiders of the Lost Ark (1981)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/341-indiana-jones.jpg"
+  },
+  {
+    "name": "Indigo",
+    "_id": "65caacb24da4b1f6eae2e22a",
+    "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/342-indigo.jpg"
+  },
+  {
+    "name": "Ink",
+    "_id": "65caacb24da4b1f6eae2e22b",
+    "firstAppearance": "Young X-Men #1 (May, 2008)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/343-ink.jpg"
+  },
+  {
+    "name": "Invisible Woman",
+    "_id": "65caacb24da4b1f6eae2e22c",
+    "firstAppearance": "FANTASTIC FOUR #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/344-invisible-woman.jpg"
+  },
+  {
+    "name": "Iron Fist",
+    "_id": "65caacb24da4b1f6eae2e22d",
+    "firstAppearance": "Marvel Premiere #15 (May 1974)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/345-iron-fist.jpg"
+  },
+  {
+    "name": "Iron Man",
+    "_id": "65caacb24da4b1f6eae2e22e",
+    "firstAppearance": "Tales of Suspence #39 (March, 1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/346-iron-man.jpg"
+  },
+  {
+    "name": "Iron Monger",
+    "_id": "65caacb24da4b1f6eae2e22f",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/347-iron-monger.jpg"
+  },
+  {
+    "name": "Isis",
+    "_id": "65caacb24da4b1f6eae2e230",
+    "firstAppearance": "(as Adrianna) 52 Week Three; (as Isis) 52 Week Twelve",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/348-isis.jpg"
+  },
+  {
+    "name": "Jack of Hearts",
+    "_id": "65caacb24da4b1f6eae2e231",
+    "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/350-jack-of-hearts.jpg"
+  },
+  {
+    "name": "Jack-Jack",
+    "_id": "65caacb24da4b1f6eae2e232",
+    "firstAppearance": "The Incredibles (Movie, 2004)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/351-jack-jack.jpg"
+  },
+  {
+    "name": "James Bond",
+    "_id": "65caacb24da4b1f6eae2e233",
+    "firstAppearance": "Casino Royale, 1953 novel",
+    "publisher": "Titan Books",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/352-james-bond.jpg"
+  },
+  {
+    "name": "James T. Kirk",
+    "_id": "65caacb24da4b1f6eae2e234",
+    "firstAppearance": "Star Trek S01E01: The Man Trap",
+    "publisher": "Star Trek",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/353-james-t.-kirk.jpg"
+  },
+  {
+    "name": "Jar Jar Binks",
+    "_id": "65caacb24da4b1f6eae2e235",
+    "firstAppearance": "-",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/354-jar-jar-binks.jpg"
+  },
+  {
+    "name": "Jason Bourne",
+    "_id": "65caacb24da4b1f6eae2e236",
+    "firstAppearance": "-",
+    "publisher": null,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/355-jason-bourne.jpg"
+  },
+  {
+    "name": "Jean Grey",
+    "_id": "65caacb24da4b1f6eae2e237",
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "publisher": "Phoenix",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/356-jean-grey.jpg"
+  },
+  {
+    "name": "Jean-Luc Picard",
+    "_id": "65caacb24da4b1f6eae2e238",
+    "firstAppearance": "Star Trek: The Next Generation (1987)",
+    "publisher": "Star Trek",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/357-jean-luc-picard.jpg"
+  },
+  {
+    "name": "Jennifer Kale",
+    "_id": "65caacb24da4b1f6eae2e239",
+    "firstAppearance": "(Adventures into) Fear#11 (1972)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/358-jennifer-kale.jpg"
+  },
+  {
+    "name": "Jessica Cruz",
+    "_id": "65caacb24da4b1f6eae2e23a",
+    "firstAppearance": "Green Lantern Vol 5 #20 (July, 2013)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/360-jessica-cruz.jpg"
+  },
+  {
+    "name": "Jessica Jones",
+    "_id": "65caacb24da4b1f6eae2e23b",
+    "firstAppearance": "Amazing Spider-Man #4 (September, 1963)",
+    "publisher": "Power Woman",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/361-jessica-jones.jpg"
+  },
+  {
+    "name": "Jim Powell",
+    "_id": "65caacb24da4b1f6eae2e23c",
+    "firstAppearance": "No Ordinary Family S01E01 (2010)",
+    "publisher": "ABC Studios",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/364-jim-powell.jpg"
+  },
+  {
+    "name": "JJ Powell",
+    "_id": "65caacb24da4b1f6eae2e23d",
+    "firstAppearance": "No Ordinary Family S01E01 (2010)",
+    "publisher": "ABC Studios",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/365-jj-powell.jpg"
+  },
+  {
+    "name": "John Constantine",
+    "_id": "65caacb24da4b1f6eae2e23e",
+    "firstAppearance": "Swamp Thing Vol 2 #37 (June, 1985)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/367-john-constantine.jpg"
+  },
+  {
+    "name": "John Wraith",
+    "_id": "65caacb24da4b1f6eae2e23f",
+    "firstAppearance": "Wolverine Vol 2 #60 (September, 1992)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+  },
+  {
+    "name": "Joker",
+    "_id": "65caacb24da4b1f6eae2e240",
+    "firstAppearance": "Batman #1 (Spring 1940)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/370-joker.jpg"
+  },
+  {
+    "name": "Jolt",
+    "_id": "65caacb24da4b1f6eae2e241",
+    "firstAppearance": "Thunderbolts #1 (1997)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/371-jolt.jpg"
+  },
+  {
+    "name": "Jubilee",
+    "_id": "65caacb24da4b1f6eae2e242",
+    "firstAppearance": "Uncanny X-Men #244 (May, 1989)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/372-jubilee.jpg"
+  },
+  {
+    "name": "Judge Dredd",
+    "_id": "65caacb24da4b1f6eae2e243",
+    "firstAppearance": "2000 AD no. 2 (5 March 1977)",
+    "publisher": "Rebellion",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/373-judge-dredd.jpg"
+  },
+  {
+    "name": "Juggernaut",
+    "_id": "65caacb24da4b1f6eae2e244",
+    "firstAppearance": "X-Men #12 (July, 1965)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/374-juggernaut.jpg"
+  },
+  {
+    "name": "Junkpile",
+    "_id": "65caacb24da4b1f6eae2e245",
+    "firstAppearance": "X-Men 2099 #1 (October, 1993)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/375-junkpile.jpg"
+  },
+  {
+    "name": "Justice",
+    "_id": "65caacb24da4b1f6eae2e246",
+    "firstAppearance": "Giant-Size Defenders #5 (July, 1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/376-justice.jpg"
+  },
+  {
+    "name": "Kang",
+    "_id": "65caacb24da4b1f6eae2e247",
+    "firstAppearance": "(As Rama-Tut) Fantastic Four #19 (1963); (as Kang) Avengers #8 (1964)",
+    "publisher": "Iron Lad",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/379-kang.jpg"
+  },
+  {
+    "name": "Kathryn Janeway",
+    "_id": "65caacb24da4b1f6eae2e248",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/380-kathryn-janeway.jpg"
+  },
+  {
+    "name": "Katniss Everdeen",
+    "_id": "65caacb24da4b1f6eae2e249",
+    "firstAppearance": "-",
+    "publisher": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/381-katniss-everdeen.jpg"
+  },
+  {
+    "name": "Kevin 11",
+    "_id": "65caacb24da4b1f6eae2e24a",
+    "firstAppearance": "Ben 10 S01",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/382-kevin-11.jpg"
+  },
+  {
+    "name": "Kick-Ass",
+    "_id": "65caacb24da4b1f6eae2e24b",
+    "firstAppearance": "Kick Ass #1",
+    "publisher": "Icon Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/383-kick-ass.jpg"
+  },
+  {
+    "name": "Kid Flash",
+    "_id": "65caacb24da4b1f6eae2e24c",
+    "firstAppearance": "Flash #110 (January, 1960)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/384-kid-flash.jpg"
+  },
+  {
+    "name": "Killer Croc",
+    "_id": "65caacb24da4b1f6eae2e24d",
+    "firstAppearance": "Batman #357 (March, 1983)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/386-killer-croc.jpg"
+  },
+  {
+    "name": "Killer Frost",
+    "_id": "65caacb24da4b1f6eae2e24e",
+    "firstAppearance": "Fury of Firestorm: The Nuclear Men #19",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/387-killer-frost.jpg"
+  },
+  {
+    "name": "Kilowog",
+    "_id": "65caacb24da4b1f6eae2e24f",
+    "firstAppearance": "Green Lantern Corps #201 (June, 1986)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/388-kilowog.jpg"
+  },
+  {
+    "name": "King Kong",
+    "_id": "65caacb24da4b1f6eae2e250",
+    "firstAppearance": "King Kong (1933)",
+    "publisher": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/389-king-kong.jpg"
+  },
+  {
+    "name": "King Shark",
+    "_id": "65caacb24da4b1f6eae2e251",
+    "firstAppearance": "Superboy Vol 4 #0",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/390-king-shark.jpg"
+  },
+  {
+    "name": "Kingpin",
+    "_id": "65caacb24da4b1f6eae2e252",
+    "firstAppearance": "Amazing Spider-Man #50 (July, 1967)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/391-kingpin.jpg"
+  },
+  {
+    "name": "Klaw",
+    "_id": "65caacb24da4b1f6eae2e253",
+    "firstAppearance": "Fantastic Four #53 (August, 1966)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/392-klaw.jpg"
+  },
+  {
+    "name": "Kool-Aid Man",
+    "_id": "65caacb24da4b1f6eae2e254",
+    "firstAppearance": "As Pitcher-Man in 1954",
+    "publisher": null,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/393-kool-aid-man.jpg"
+  },
+  {
+    "name": "Kraven II",
+    "_id": "65caacb24da4b1f6eae2e255",
+    "firstAppearance": "Spectacular Spider-Man #243 (1997)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/394-kraven-ii.jpg"
+  },
+  {
+    "name": "Kraven the Hunter",
+    "_id": "65caacb24da4b1f6eae2e256",
+    "firstAppearance": "The Amazing Spider-Man #15 (1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/395-kraven-the-hunter.jpg"
+  },
+  {
+    "name": "Krypto",
+    "_id": "65caacb24da4b1f6eae2e257",
+    "firstAppearance": "Adventure Comics #210 (March, 1955)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/396-krypto.jpg"
+  },
+  {
+    "name": "Kyle Rayner",
+    "_id": "65caacb24da4b1f6eae2e258",
+    "firstAppearance": "Green Lantern Vol 3 #48",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/397-kyle-rayner.jpg"
+  },
+  {
+    "name": "Kylo Ren",
+    "_id": "65caacb24da4b1f6eae2e259",
+    "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/398-kylo-ren.jpg"
+  },
+  {
+    "name": "Lady Deathstrike",
+    "_id": "65caacb24da4b1f6eae2e25a",
+    "firstAppearance": "Alpha Flight Vol. 1 #33 (1985)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/400-lady-deathstrike.jpg"
+  },
+  {
+    "name": "Leader",
+    "_id": "65caacb24da4b1f6eae2e25b",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/401-leader.jpg"
+  },
+  {
+    "name": "Leech",
+    "_id": "65caacb24da4b1f6eae2e25c",
+    "firstAppearance": "Uncanny X-Men #179",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/402-leech.jpg"
+  },
+  {
+    "name": "Legion",
+    "_id": "65caacb24da4b1f6eae2e25d",
+    "firstAppearance": "New Mutants #25 (March, 1985)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/403-legion.jpg"
+  },
+  {
+    "name": "Leonardo",
+    "_id": "65caacb24da4b1f6eae2e25e",
+    "firstAppearance": "Teenage Mutant Ninja Turtles #1",
+    "publisher": "IDW Publishing",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/404-leonardo.jpg"
+  },
+  {
+    "name": "Lex Luthor",
+    "_id": "65caacb24da4b1f6eae2e25f",
+    "firstAppearance": "Action Comics #23",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/405-lex-luthor.jpg"
+  },
+  {
+    "name": "Light Lass",
+    "_id": "65caacb24da4b1f6eae2e260",
+    "firstAppearance": "Teen Titans/Legion Special #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/406-light-lass.jpg"
+  },
+  {
+    "name": "Lightning Lad",
+    "_id": "65caacb24da4b1f6eae2e261",
+    "firstAppearance": "Teen Titans/Legion Special #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/407-lightning-lad.jpg"
+  },
+  {
+    "name": "Lightning Lord",
+    "_id": "65caacb24da4b1f6eae2e262",
+    "firstAppearance": "Supergirl and the Legion of Super-Heroes #25 (Feb. 2007)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/408-lightning-lord.jpg"
+  },
+  {
+    "name": "Living Brain",
+    "_id": "65caacb24da4b1f6eae2e263",
+    "firstAppearance": "Amazing Spider-Man #8 (1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/409-living-brain.jpg"
+  },
+  {
+    "name": "Living Tribunal",
+    "_id": "65caacb24da4b1f6eae2e264",
+    "firstAppearance": "Strange Tales #157",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/410-living-tribunal.jpg"
+  },
+  {
+    "name": "Lizard",
+    "_id": "65caacb24da4b1f6eae2e265",
+    "firstAppearance": "Amazing Spider-Man #6",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/412-lizard.jpg"
+  },
+  {
+    "name": "Lobo",
+    "_id": "65caacb24da4b1f6eae2e266",
+    "firstAppearance": "Omega Men # 3",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/413-lobo.jpg"
+  },
+  {
+    "name": "Loki",
+    "_id": "65caacb24da4b1f6eae2e267",
+    "firstAppearance": "Journey into Mystery Vol. 1 #85",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/414-loki.jpg"
+  },
+  {
+    "name": "Longshot",
+    "_id": "65caacb24da4b1f6eae2e268",
+    "firstAppearance": "Longshot #1 (September, 1985)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/415-longshot.jpg"
+  },
+  {
+    "name": "Luke Cage",
+    "_id": "65caacb24da4b1f6eae2e269",
+    "firstAppearance": "Hero for Hire #1 (1972)",
+    "publisher": "Power Man",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/416-luke-cage.jpg"
+  },
+  {
+    "name": "Luke Skywalker",
+    "_id": "65caacb24da4b1f6eae2e26a",
+    "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/418-luke-skywalker.jpg"
+  },
+  {
+    "name": "Luna",
+    "_id": "65caacb24da4b1f6eae2e26b",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/419-luna.jpg"
+  },
+  {
+    "name": "Mach-IV",
+    "_id": "65caacb24da4b1f6eae2e26c",
+    "firstAppearance": "(Beetle) Strange Tales #123 (1964); (MACH-I) Incredible Hulk #449 (1997); (MACH-II) Thunderbolts #37 (2000); (MACH-III) Thunderbolts #57 (2001); (MACH-IV) New Thunderbolts #1 (2005)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/421-mach-iv.jpg"
+  },
+  {
+    "name": "Machine Man",
+    "_id": "65caacb24da4b1f6eae2e26d",
+    "firstAppearance": "First appearance unknown",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/422-machine-man.jpg"
+  },
+  {
+    "name": "Magneto",
+    "_id": "65caacb24da4b1f6eae2e26e",
+    "firstAppearance": "X-MEN Vol. 1 #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/423-magneto.jpg"
+  },
+  {
+    "name": "Magog",
+    "_id": "65caacb24da4b1f6eae2e26f",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/424-magog.jpg"
+  },
+  {
+    "name": "Magus",
+    "_id": "65caacb24da4b1f6eae2e270",
+    "firstAppearance": "New Mutants #18 (1984)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/425-magus.jpg"
+  },
+  {
+    "name": "Man of Miracles",
+    "_id": "65caacb24da4b1f6eae2e271",
+    "firstAppearance": "Spawn #75",
+    "publisher": "Image Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/426-man-of-miracles.jpg"
+  },
+  {
+    "name": "Man-Bat",
+    "_id": "65caacb24da4b1f6eae2e272",
+    "firstAppearance": "Detective Comics #400 (June, 1970)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/427-man-bat.jpg"
+  },
+  {
+    "name": "Man-Thing",
+    "_id": "65caacb24da4b1f6eae2e273",
+    "firstAppearance": "Savage Tales #1 (May, 1971)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/428-man-thing.jpg"
+  },
+  {
+    "name": "Man-Wolf",
+    "_id": "65caacb24da4b1f6eae2e274",
+    "firstAppearance": "AMAZING SPIDER-MAN #1, (as Man-Wolf) AMAZING SPIDER-MAN #124",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/429-man-wolf.jpg"
+  },
+  {
+    "name": "Mandarin",
+    "_id": "65caacb24da4b1f6eae2e275",
+    "firstAppearance": "Tales of Suspense #50 (February, 1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/430-mandarin.jpg"
+  },
+  {
+    "name": "Mantis",
+    "_id": "65caacb24da4b1f6eae2e276",
+    "firstAppearance": "Avengers #112",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/431-mantis.jpg"
+  },
+  {
+    "name": "Martian Manhunter",
+    "_id": "65caacb24da4b1f6eae2e277",
+    "firstAppearance": "Detective Comics #225 (1955)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/432-martian-manhunter.jpg"
+  },
+  {
+    "name": "Marvel Girl",
+    "_id": "65caacb24da4b1f6eae2e278",
+    "firstAppearance": "UNCANNY X-MEN #141",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/433-marvel-girl.jpg"
+  },
+  {
+    "name": "Master Chief",
+    "_id": "65caacb24da4b1f6eae2e279",
+    "firstAppearance": "-",
+    "publisher": "Microsoft",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/435-master-chief.jpg"
+  },
+  {
+    "name": "Match",
+    "_id": "65caacb24da4b1f6eae2e27a",
+    "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/436-match.jpg"
+  },
+  {
+    "name": "Matt Parkman",
+    "_id": "65caacb24da4b1f6eae2e27b",
+    "firstAppearance": "Heroes S01E02 - Don't Look Back",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/437-matt-parkman.jpg"
+  },
+  {
+    "name": "Maverick",
+    "_id": "65caacb24da4b1f6eae2e27c",
+    "firstAppearance": "X-Men Unlimited #8 (1995)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/438-maverick.jpg"
+  },
+  {
+    "name": "Maxima",
+    "_id": "65caacb24da4b1f6eae2e27d",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/439-maxima.jpg"
+  },
+  {
+    "name": "Maya Herrera",
+    "_id": "65caacb24da4b1f6eae2e27e",
+    "firstAppearance": "-",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/440-maya-herrera.jpg"
+  },
+  {
+    "name": "Medusa",
+    "_id": "65caacb24da4b1f6eae2e27f",
+    "firstAppearance": "Fantastic Four Vol. 1 #36 (1965)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/441-medusa.jpg"
+  },
+  {
+    "name": "Meltdown",
+    "_id": "65caacb24da4b1f6eae2e280",
+    "firstAppearance": "-",
+    "publisher": "Boom-Boom",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/442-meltdown.jpg"
+  },
+  {
+    "name": "Mephisto",
+    "_id": "65caacb24da4b1f6eae2e281",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/443-mephisto.jpg"
+  },
+  {
+    "name": "Mera",
+    "_id": "65caacb24da4b1f6eae2e282",
+    "firstAppearance": "Aquaman #11 (October, 1963)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/444-mera.jpg"
+  },
+  {
+    "name": "Metallo",
+    "_id": "65caacb24da4b1f6eae2e283",
+    "firstAppearance": "Superman Vol 2 #1 (January, 1987)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/445-metallo.jpg"
+  },
+  {
+    "name": "Metron",
+    "_id": "65caacb24da4b1f6eae2e284",
+    "firstAppearance": "New Gods vol. 1 #1 (February-March, 1971)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/448-metron.jpg"
+  },
+  {
+    "name": "Micah Sanders",
+    "_id": "65caacb24da4b1f6eae2e285",
+    "firstAppearance": "-",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/449-micah-sanders.jpg"
+  },
+  {
+    "name": "Michelangelo",
+    "_id": "65caacb24da4b1f6eae2e286",
+    "firstAppearance": "-",
+    "publisher": "IDW Publishing",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/450-michelangelo.jpg"
+  },
+  {
+    "name": "Micro Lad",
+    "_id": "65caacb24da4b1f6eae2e287",
+    "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/451-micro-lad.jpg"
+  },
+  {
+    "name": "Mimic",
+    "_id": "65caacb24da4b1f6eae2e288",
+    "firstAppearance": "Uncanny X-Men #19",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/452-mimic.jpg"
+  },
+  {
+    "name": "Misfit",
+    "_id": "65caacb24da4b1f6eae2e289",
+    "firstAppearance": "Birds of Prey #96",
+    "publisher": "Batgirl V",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/454-misfit.jpg"
+  },
+  {
+    "name": "Miss Martian",
+    "_id": "65caacb24da4b1f6eae2e28a",
+    "firstAppearance": "Teen Titans Vol 3 #37 (August, 2006)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/455-miss-martian.jpg"
+  },
+  {
+    "name": "Mister Fantastic",
+    "_id": "65caacb24da4b1f6eae2e28b",
+    "firstAppearance": "FANTASTIC FOUR #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/456-mister-fantastic.jpg"
+  },
+  {
+    "name": "Mister Freeze",
+    "_id": "65caacb24da4b1f6eae2e28c",
+    "firstAppearance": "Batman #121 (Feb. 1959)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/457-mister-freeze.jpg"
+  },
+  {
+    "name": "Mister Knife",
+    "_id": "65caacb24da4b1f6eae2e28d",
+    "firstAppearance": "Inhumans Vol 3 #2 (July, 2000)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/458-mister-knife.jpg"
+  },
+  {
+    "name": "Mister Mxyzptlk",
+    "_id": "65caacb24da4b1f6eae2e28e",
+    "firstAppearance": "Superman #30",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/459-mister-mxyzptlk.jpg"
+  },
+  {
+    "name": "Mister Sinister",
+    "_id": "65caacb24da4b1f6eae2e28f",
+    "firstAppearance": "Uncanny X-Men #221 (September, 1987)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/460-mister-sinister.jpg"
+  },
+  {
+    "name": "Mister Zsasz",
+    "_id": "65caacb24da4b1f6eae2e290",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+  },
+  {
+    "name": "Mockingbird",
+    "_id": "65caacb24da4b1f6eae2e291",
+    "firstAppearance": "Astonishing Tales #6 (June, 1971)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/462-mockingbird.jpg"
+  },
+  {
+    "name": "MODOK",
+    "_id": "65caacb24da4b1f6eae2e292",
+    "firstAppearance": "Tales of Suspense #93",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/463-modok.jpg"
+  },
+  {
+    "name": "Molten Man",
+    "_id": "65caacb24da4b1f6eae2e293",
+    "firstAppearance": "Amazing Spider-Man #28 (1965)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/467-molten-man.jpg"
+  },
+  {
+    "name": "Monica Dawson",
+    "_id": "65caacb24da4b1f6eae2e294",
+    "firstAppearance": "Heroes S02E04 - The Kindness of Strangers",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/469-monica-dawson.jpg"
+  },
+  {
+    "name": "Moon Knight",
+    "_id": "65caacb24da4b1f6eae2e295",
+    "firstAppearance": "Werewolf by Night #32 (August, 1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/470-moon-knight.jpg"
+  },
+  {
+    "name": "Moonstone",
+    "_id": "65caacb24da4b1f6eae2e296",
+    "firstAppearance": "Captain America Vol. 1 #192 (December, 1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/471-moonstone.jpg"
+  },
+  {
+    "name": "Morlun",
+    "_id": "65caacb24da4b1f6eae2e297",
+    "firstAppearance": "Amazing Spider-Man #30 (2001)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/472-morlun.jpg"
+  },
+  {
+    "name": "Moses Magnum",
+    "_id": "65caacb24da4b1f6eae2e298",
+    "firstAppearance": "Giant-Size Spider-Man #4 (1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/474-moses-magnum.jpg"
+  },
+  {
+    "name": "Mr Immortal",
+    "_id": "65caacb24da4b1f6eae2e299",
+    "firstAppearance": "West Coast Avengers Vol 2 #46",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+  },
+  {
+    "name": "Mr Incredible",
+    "_id": "65caacb24da4b1f6eae2e29a",
+    "firstAppearance": "The Incredibles (Movies, 2004)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/476-mr-incredible.jpg"
+  },
+  {
+    "name": "Ms Marvel II",
+    "_id": "65caacb24da4b1f6eae2e29b",
+    "firstAppearance": "-",
+    "publisher": "She-Thing",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/477-ms-marvel-ii.jpg"
+  },
+  {
+    "name": "Multiple Man",
+    "_id": "65caacb24da4b1f6eae2e29c",
+    "firstAppearance": "GIANT-SIZE FANTASTIC FOUR #4",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/478-multiple-man.jpg"
+  },
+  {
+    "name": "Mysterio",
+    "_id": "65caacb24da4b1f6eae2e29d",
+    "firstAppearance": "Amazing Spider-Man #13 (1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/479-mysterio.jpg"
+  },
+  {
+    "name": "Mystique",
+    "_id": "65caacb24da4b1f6eae2e29e",
+    "firstAppearance": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/480-mystique.jpg"
+  },
+  {
+    "name": "Namor",
+    "_id": "65caacb24da4b1f6eae2e29f",
+    "firstAppearance": "Motion Picture Funnies Weekly #1 (April, 1939)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/481-namor.jpg"
+  },
+  {
+    "name": "Namora",
+    "_id": "65caacb24da4b1f6eae2e2a0",
+    "firstAppearance": "Marvel Mystery Comics #82 (1947)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/483-namora.jpg"
+  },
+  {
+    "name": "Namorita",
+    "_id": "65caacb24da4b1f6eae2e2a1",
+    "firstAppearance": "SUB-MARINER Vol. 2 #50 (1972)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/484-namorita.jpg"
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "_id": "65caacb24da4b1f6eae2e2a2",
+    "firstAppearance": "-",
+    "publisher": "Shueisha",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/485-naruto-uzumaki.jpg"
+  },
+  {
+    "name": "Nebula",
+    "_id": "65caacb24da4b1f6eae2e2a3",
+    "firstAppearance": "Avengers #257 (July, 1985)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/487-nebula.jpg"
+  },
+  {
+    "name": "Negasonic Teenage Warhead",
+    "_id": "65caacb24da4b1f6eae2e2a4",
+    "firstAppearance": "New X-Men #115",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/488-negasonic-teenage-warhead.jpg"
+  },
+  {
+    "name": "Nick Fury",
+    "_id": "65caacb24da4b1f6eae2e2a5",
+    "firstAppearance": "Sgt. Fury and His Howling Commandos #1 (1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/489-nick-fury.jpg"
+  },
+  {
+    "name": "Nightcrawler",
+    "_id": "65caacb24da4b1f6eae2e2a6",
+    "firstAppearance": "GIANT-SIZE X-MEN #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/490-nightcrawler.jpg"
+  },
+  {
+    "name": "Nightwing",
+    "_id": "65caacb24da4b1f6eae2e2a7",
+    "firstAppearance": "as Dick Grayson and Robin) Detective Comics #38, (as Nightwing) Tales of the Teen Titans #44, (as Batman) Batman #512",
+    "publisher": "Batman II",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/491-nightwing.jpg"
+  },
+  {
+    "name": "Niki Sanders",
+    "_id": "65caacb24da4b1f6eae2e2a8",
+    "firstAppearance": "Heroes S01E01 - Genesis",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/492-niki-sanders.jpg"
+  },
+  {
+    "name": "Nina Theroux",
+    "_id": "65caacb24da4b1f6eae2e2a9",
+    "firstAppearance": "-",
+    "publisher": "SyFy",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/493-nina-theroux.jpg"
+  },
+  {
+    "name": "Northstar",
+    "_id": "65caacb24da4b1f6eae2e2aa",
+    "firstAppearance": "X-Men #120 (1979)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/495-northstar.jpg"
+  },
+  {
+    "name": "Nova",
+    "_id": "65caacb24da4b1f6eae2e2ab",
+    "firstAppearance": "NOVA Vol. 1 #1 (September, 1976)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/496-nova.jpg"
+  },
+  {
+    "name": "Nova",
+    "_id": "65caacb24da4b1f6eae2e2ac",
+    "firstAppearance": "Fantastic Four #164 (November, 1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/497-nova.jpg"
+  },
+  {
+    "name": "Odin",
+    "_id": "65caacb24da4b1f6eae2e2ad",
+    "firstAppearance": "Journey into Mystery #85",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/498-odin.jpg"
+  },
+  {
+    "name": "Offspring",
+    "_id": "65caacb24da4b1f6eae2e2ae",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/499-offspring.jpg"
+  },
+  {
+    "name": "One Punch Man",
+    "_id": "65caacb24da4b1f6eae2e2af",
+    "firstAppearance": "One Punch - Chapter 1, Volume 1",
+    "publisher": "Shueisha",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/502-one-punch-man.jpg"
+  },
+  {
+    "name": "One-Above-All",
+    "_id": "65caacb24da4b1f6eae2e2b0",
+    "firstAppearance": "Doctor Strange Vol 2 #13",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/503-one-above-all.jpg"
+  },
+  {
+    "name": "Onslaught",
+    "_id": "65caacb24da4b1f6eae2e2b1",
+    "firstAppearance": "X-Man Vol 1 #15 (May, 1996)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/504-onslaught.jpg"
+  },
+  {
+    "name": "Oracle",
+    "_id": "65caacb24da4b1f6eae2e2b2",
+    "firstAppearance": "Suicide Squad #23 (Jan.1989)",
+    "publisher": "Batgirl",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/505-oracle.jpg"
+  },
+  {
+    "name": "Osiris",
+    "_id": "65caacb24da4b1f6eae2e2b3",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/506-osiris.jpg"
+  },
+  {
+    "name": "Ozymandias",
+    "_id": "65caacb24da4b1f6eae2e2b4",
+    "firstAppearance": "Watchmen #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/508-ozymandias.jpg"
+  },
+  {
+    "name": "Parademon",
+    "_id": "65caacb24da4b1f6eae2e2b5",
+    "firstAppearance": "New Gods #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/509-parademon.jpg"
+  },
+  {
+    "name": "Paul Blart",
+    "_id": "65caacb24da4b1f6eae2e2b6",
+    "firstAppearance": "-",
+    "publisher": "Sony Pictures",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/510-paul-blart.jpg"
+  },
+  {
+    "name": "Penguin",
+    "_id": "65caacb24da4b1f6eae2e2b7",
+    "firstAppearance": "DETECTIVE COMICS #58 (December, 1941)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/514-penguin.jpg"
+  },
+  {
+    "name": "Phantom Girl",
+    "_id": "65caacb24da4b1f6eae2e2b8",
+    "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/516-phantom-girl.jpg"
+  },
+  {
+    "name": "Phoenix",
+    "_id": "65caacb24da4b1f6eae2e2b9",
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "publisher": "Jean Grey",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/517-phoenix.jpg"
+  },
+  {
+    "name": "Plantman",
+    "_id": "65caacb24da4b1f6eae2e2ba",
+    "firstAppearance": "Strange Tales #113 (October, 1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/518-plantman.jpg"
+  },
+  {
+    "name": "Plastic Man",
+    "_id": "65caacb24da4b1f6eae2e2bb",
+    "firstAppearance": "Police Comics #1 (August, 1941)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/520-plastic-man.jpg"
+  },
+  {
+    "name": "Plastique",
+    "_id": "65caacb24da4b1f6eae2e2bc",
+    "firstAppearance": "Fury of Firestorm #7",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/521-plastique.jpg"
+  },
+  {
+    "name": "Poison Ivy",
+    "_id": "65caacb24da4b1f6eae2e2bd",
+    "firstAppearance": "Batman #181 (June 1966)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/522-poison-ivy.jpg"
+  },
+  {
+    "name": "Polaris",
+    "_id": "65caacb24da4b1f6eae2e2be",
+    "firstAppearance": "X-Men #49 (October, 1968)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/523-polaris.jpg"
+  },
+  {
+    "name": "Power Girl",
+    "_id": "65caacb24da4b1f6eae2e2bf",
+    "firstAppearance": "All-Star Comics #58 (January/February 1976)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/524-power-girl.jpg"
+  },
+  {
+    "name": "Predator",
+    "_id": "65caacb24da4b1f6eae2e2c0",
+    "firstAppearance": "Predator (1987)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/526-predator.jpg"
+  },
+  {
+    "name": "Professor X",
+    "_id": "65caacb24da4b1f6eae2e2c1",
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/527-professor-x.jpg"
+  },
+  {
+    "name": "Professor Zoom",
+    "_id": "65caacb24da4b1f6eae2e2c2",
+    "firstAppearance": "Flash #139 (September, 1963)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/528-professor-zoom.jpg"
+  },
+  {
+    "name": "Psylocke",
+    "_id": "65caacb24da4b1f6eae2e2c3",
+    "firstAppearance": "Captain Britain #8 (December, 1976) / New Mutants Annual #2 (October, 1986) (US)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/529-psylocke.jpg"
+  },
+  {
+    "name": "Punisher",
+    "_id": "65caacb24da4b1f6eae2e2c4",
+    "firstAppearance": "AMAZING SPIDER-MAN #129",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/530-punisher.jpg"
+  },
+  {
+    "name": "Purple Man",
+    "_id": "65caacb24da4b1f6eae2e2c5",
+    "firstAppearance": "Daredevil #4 (October, 1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/531-purple-man.jpg"
+  },
+  {
+    "name": "Pyro",
+    "_id": "65caacb24da4b1f6eae2e2c6",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/532-pyro.jpg"
+  },
+  {
+    "name": "Q",
+    "_id": "65caacb24da4b1f6eae2e2c7",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/533-q.jpg"
+  },
+  {
+    "name": "Question",
+    "_id": "65caacb24da4b1f6eae2e2c8",
+    "firstAppearance": "Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/535-question.jpg"
+  },
+  {
+    "name": "Quicksilver",
+    "_id": "65caacb24da4b1f6eae2e2c9",
+    "firstAppearance": "X-MEN Vol. 1 #4",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/536-quicksilver.jpg"
+  },
+  {
+    "name": "Quill",
+    "_id": "65caacb24da4b1f6eae2e2ca",
+    "firstAppearance": "New X-Men: Academy X #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/537-quill.jpg"
+  },
+  {
+    "name": "Ra's Al Ghul",
+    "_id": "65caacb24da4b1f6eae2e2cb",
+    "firstAppearance": "Batman #232 (June, 1971)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/538-ras-al-ghul.jpg"
+  },
+  {
+    "name": "Rachel Pirzad",
+    "_id": "65caacb24da4b1f6eae2e2cc",
+    "firstAppearance": "-",
+    "publisher": "SyFy",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/539-rachel-pirzad.jpg"
+  },
+  {
+    "name": "Rambo",
+    "_id": "65caacb24da4b1f6eae2e2cd",
+    "firstAppearance": "First Blood (Novel, 1972)",
+    "publisher": null,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/540-rambo.jpg"
+  },
+  {
+    "name": "Raphael",
+    "_id": "65caacb24da4b1f6eae2e2ce",
+    "firstAppearance": "Teenage Mutant Ninja Turtles #1",
+    "publisher": "IDW Publishing",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/541-raphael.jpg"
+  },
+  {
+    "name": "Raven",
+    "_id": "65caacb24da4b1f6eae2e2cf",
+    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/542-raven.jpg"
+  },
+  {
+    "name": "Ray",
+    "_id": "65caacb24da4b1f6eae2e2d0",
+    "firstAppearance": "Ray #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/543-ray.jpg"
+  },
+  {
+    "name": "Red Arrow",
+    "_id": "65caacb24da4b1f6eae2e2d1",
+    "firstAppearance": "(as Speedy) More Fun Comics # 73(Nov. 1941); (as Arsenal) The New Titans # 99 (July 1993); (as Red Arrow) Justice League of America Vol. 2 # 7 (May 2007)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/545-red-arrow.jpg"
+  },
+  {
+    "name": "Red Hood",
+    "_id": "65caacb24da4b1f6eae2e2d2",
+    "firstAppearance": "Batman #635",
+    "publisher": "Robin II",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/546-red-hood.jpg"
+  },
+  {
+    "name": "Red Hulk",
+    "_id": "65caacb24da4b1f6eae2e2d3",
+    "firstAppearance": "Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/547-red-hulk.jpg"
+  },
+  {
+    "name": "Red Mist",
+    "_id": "65caacb24da4b1f6eae2e2d4",
+    "firstAppearance": "Kick-Ass #5",
+    "publisher": "Icon Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/548-red-mist.jpg"
+  },
+  {
+    "name": "Red Robin",
+    "_id": "65caacb24da4b1f6eae2e2d5",
+    "firstAppearance": "Batman #436 (August, 1989)",
+    "publisher": "Robin III",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/549-red-robin.jpg"
+  },
+  {
+    "name": "Red Skull",
+    "_id": "65caacb24da4b1f6eae2e2d6",
+    "firstAppearance": "Captain America Comics #1 (1941), (modern) Tales of Suspense #66 (1965)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/550-red-skull.jpg"
+  },
+  {
+    "name": "Red Tornado",
+    "_id": "65caacb24da4b1f6eae2e2d7",
+    "firstAppearance": "As Red Tornado: Justice League of America #64, As Ulthoon: Mystery in Space #61",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/551-red-tornado.jpg"
+  },
+  {
+    "name": "Rey",
+    "_id": "65caacb24da4b1f6eae2e2d8",
+    "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/555-rey.jpg"
+  },
+  {
+    "name": "Rhino",
+    "_id": "65caacb24da4b1f6eae2e2d9",
+    "firstAppearance": "Amazing Spider-Man #41",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/556-rhino.jpg"
+  },
+  {
+    "name": "Rick Flag",
+    "_id": "65caacb24da4b1f6eae2e2da",
+    "firstAppearance": "Brave and the Bold #25 (September 1959)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/557-rick-flag.jpg"
+  },
+  {
+    "name": "Riddler",
+    "_id": "65caacb24da4b1f6eae2e2db",
+    "firstAppearance": "Detective Comics #140 (1948)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/558-riddler.jpg"
+  },
+  {
+    "name": "Rip Hunter",
+    "_id": "65caacb24da4b1f6eae2e2dc",
+    "firstAppearance": "Showcase #20",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/559-rip-hunter.jpg"
+  },
+  {
+    "name": "Robin",
+    "_id": "65caacb24da4b1f6eae2e2dd",
+    "firstAppearance": "Detective Comics #38 (April, 1940)",
+    "publisher": "Batman II",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/561-robin.jpg"
+  },
+  {
+    "name": "Robin II",
+    "_id": "65caacb24da4b1f6eae2e2de",
+    "firstAppearance": "Detective Comics #524",
+    "publisher": "Red Hood",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/562-robin-ii.jpg"
+  },
+  {
+    "name": "Robin III",
+    "_id": "65caacb24da4b1f6eae2e2df",
+    "firstAppearance": "Batman #436 (August, 1989)",
+    "publisher": "Red Robin",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/563-robin-iii.jpg"
+  },
+  {
+    "name": "Robin V",
+    "_id": "65caacb24da4b1f6eae2e2e0",
+    "firstAppearance": "Batman: Son of the Demon",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/564-robin-v.jpg"
+  },
+  {
+    "name": "Robin VI",
+    "_id": "65caacb24da4b1f6eae2e2e1",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/565-robin-vi.jpg"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "_id": "65caacb24da4b1f6eae2e2e2",
+    "firstAppearance": "Marvel Preview #7 (June, 1976)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/566-rocket-raccoon.jpg"
+  },
+  {
+    "name": "Rogue",
+    "_id": "65caacb24da4b1f6eae2e2e3",
+    "firstAppearance": "Avengers Annual #10 (1981)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/567-rogue.jpg"
+  },
+  {
+    "name": "Ronin",
+    "_id": "65caacb24da4b1f6eae2e2e4",
+    "firstAppearance": "-",
+    "publisher": "Goliath",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+  },
+  {
+    "name": "Rorschach",
+    "_id": "65caacb24da4b1f6eae2e2e5",
+    "firstAppearance": "Watchmen #1 (September, 1986)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/569-rorschach.jpg"
+  },
+  {
+    "name": "Sabretooth",
+    "_id": "65caacb24da4b1f6eae2e2e6",
+    "firstAppearance": "Iron Fist #14 (August, 1977)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/570-sabretooth.jpg"
+  },
+  {
+    "name": "Sage",
+    "_id": "65caacb24da4b1f6eae2e2e7",
+    "firstAppearance": "X-MEN Vol. 1 #132",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/571-sage.jpg"
+  },
+  {
+    "name": "Sandman",
+    "_id": "65caacb24da4b1f6eae2e2e8",
+    "firstAppearance": "Amazing Spider-Man #4 (September, 1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/572-sandman.jpg"
+  },
+  {
+    "name": "Sasquatch",
+    "_id": "65caacb24da4b1f6eae2e2e9",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/573-sasquatch.jpg"
+  },
+  {
+    "name": "Sauron",
+    "_id": "65caacb24da4b1f6eae2e2ea",
+    "firstAppearance": "-",
+    "publisher": "J. R. R. Tolkien",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/574-sauron.jpg"
+  },
+  {
+    "name": "Savage Dragon",
+    "_id": "65caacb24da4b1f6eae2e2eb",
+    "firstAppearance": "-",
+    "publisher": "Image Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/575-savage-dragon.jpg"
+  },
+  {
+    "name": "Scarecrow",
+    "_id": "65caacb24da4b1f6eae2e2ec",
+    "firstAppearance": "WORLD'S FINEST COMICS #3 (Fall, 1941)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/576-scarecrow.jpg"
+  },
+  {
+    "name": "Scarlet Spider",
+    "_id": "65caacb24da4b1f6eae2e2ed",
+    "firstAppearance": "Amazing Spider-Man # 149 (as Spider-Clone); Web of Spider-Man # 117 (as Ben Reilly)",
+    "publisher": "Spider-Carnage",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/577-scarlet-spider.jpg"
+  },
+  {
+    "name": "Scarlet Spider II",
+    "_id": "65caacb24da4b1f6eae2e2ee",
+    "firstAppearance": "Web of Spider-Man #119 (December, 1994)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/578-scarlet-spider-ii.jpg"
+  },
+  {
+    "name": "Scarlet Witch",
+    "_id": "65caacb24da4b1f6eae2e2ef",
+    "firstAppearance": "Uncanny X-Men #4 (March, 1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/579-scarlet-witch.jpg"
+  },
+  {
+    "name": "Scorpia",
+    "_id": "65caacb24da4b1f6eae2e2f0",
+    "firstAppearance": "Spider-Man: Power of Terror limited series #2 (1995)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/580-scorpia.jpg"
+  },
+  {
+    "name": "Scorpion",
+    "_id": "65caacb24da4b1f6eae2e2f1",
+    "firstAppearance": "Amazing Spider-Man #19 (1964)",
+    "publisher": "Venom III",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/581-scorpion.jpg"
+  },
+  {
+    "name": "Sebastian Shaw",
+    "_id": "65caacb24da4b1f6eae2e2f2",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+  },
+  {
+    "name": "Sentry",
+    "_id": "65caacb24da4b1f6eae2e2f3",
+    "firstAppearance": "Sentry #1 (September, 2000)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/583-sentry.jpg"
+  },
+  {
+    "name": "Shadow King",
+    "_id": "65caacb24da4b1f6eae2e2f4",
+    "firstAppearance": "X-Men #117 (1979)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/584-shadow-king.jpg"
+  },
+  {
+    "name": "Shadow Lass",
+    "_id": "65caacb24da4b1f6eae2e2f5",
+    "firstAppearance": "Adventure Comics #365",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/585-shadow-lass.jpg"
+  },
+  {
+    "name": "Shadowcat",
+    "_id": "65caacb24da4b1f6eae2e2f6",
+    "firstAppearance": "X-Men #129 (January, 1980)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/586-shadowcat.jpg"
+  },
+  {
+    "name": "Shang-Chi",
+    "_id": "65caacb24da4b1f6eae2e2f7",
+    "firstAppearance": "Special Marvel Edition #15 (December, 1973)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/587-shang-chi.jpg"
+  },
+  {
+    "name": "Shatterstar",
+    "_id": "65caacb24da4b1f6eae2e2f8",
+    "firstAppearance": "New Mutants #99",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/588-shatterstar.jpg"
+  },
+  {
+    "name": "She-Hulk",
+    "_id": "65caacb24da4b1f6eae2e2f9",
+    "firstAppearance": "She-Hulk (Vol. 1) #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/589-she-hulk.jpg"
+  },
+  {
+    "name": "She-Thing",
+    "_id": "65caacb24da4b1f6eae2e2fa",
+    "firstAppearance": "Thing #27",
+    "publisher": "Ms Marvel II",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/590-she-thing.jpg"
+  },
+  {
+    "name": "Shocker",
+    "_id": "65caacb24da4b1f6eae2e2fb",
+    "firstAppearance": "Amazing Spider-Man #46",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/591-shocker.jpg"
+  },
+  {
+    "name": "Shriek",
+    "_id": "65caacb24da4b1f6eae2e2fc",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/592-shriek.jpg"
+  },
+  {
+    "name": "Sif",
+    "_id": "65caacb24da4b1f6eae2e2fd",
+    "firstAppearance": "Journey into Mystery #102 (March, 1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/594-sif.jpg"
+  },
+  {
+    "name": "Silk",
+    "_id": "65caacb24da4b1f6eae2e2fe",
+    "firstAppearance": "Amazing Spider-Man Vol 3 #4",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/595-silk.jpg"
+  },
+  {
+    "name": "Silver Surfer",
+    "_id": "65caacb24da4b1f6eae2e2ff",
+    "firstAppearance": "Fantastic Four, Vol. 1 #48",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/598-silver-surfer.jpg"
+  },
+  {
+    "name": "Silverclaw",
+    "_id": "65caacb24da4b1f6eae2e300",
+    "firstAppearance": "Avengers #8 (1998)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/599-silverclaw.jpg"
+  },
+  {
+    "name": "Simon Baz",
+    "_id": "65caacb24da4b1f6eae2e301",
+    "firstAppearance": "The New 52: FCBD Special Edition #1 (June, 2012)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/600-simon-baz.jpg"
+  },
+  {
+    "name": "Sinestro",
+    "_id": "65caacb24da4b1f6eae2e302",
+    "firstAppearance": "Green Lantern Vol 2 #7",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/601-sinestro.jpg"
+  },
+  {
+    "name": "Siren",
+    "_id": "65caacb24da4b1f6eae2e303",
+    "firstAppearance": "Aquaman #22 (August, 1965)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/602-siren.jpg"
+  },
+  {
+    "name": "Siryn",
+    "_id": "65caacb24da4b1f6eae2e304",
+    "firstAppearance": "Spider-Woman (first series) #37",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/604-siryn.jpg"
+  },
+  {
+    "name": "Skaar",
+    "_id": "65caacb24da4b1f6eae2e305",
+    "firstAppearance": "World War Hulk #5, 2007",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/605-skaar.jpg"
+  },
+  {
+    "name": "Snowbird",
+    "_id": "65caacb24da4b1f6eae2e306",
+    "firstAppearance": "Uncanny X-Men #120",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/607-snowbird.jpg"
+  },
+  {
+    "name": "Sobek",
+    "_id": "65caacb24da4b1f6eae2e307",
+    "firstAppearance": "52 Week Twenty-Six",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/608-sobek.jpg"
+  },
+  {
+    "name": "Solomon Grundy",
+    "_id": "65caacb24da4b1f6eae2e308",
+    "firstAppearance": "All-American Comics #61 (October, 1944)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/609-solomon-grundy.jpg"
+  },
+  {
+    "name": "Songbird",
+    "_id": "65caacb24da4b1f6eae2e309",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/610-songbird.jpg"
+  },
+  {
+    "name": "Space Ghost",
+    "_id": "65caacb24da4b1f6eae2e30a",
+    "firstAppearance": "Space Ghost (1966)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/611-space-ghost.jpg"
+  },
+  {
+    "name": "Spawn",
+    "_id": "65caacb24da4b1f6eae2e30b",
+    "firstAppearance": "Spawn #1 (May, 1992)",
+    "publisher": "Image Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/612-spawn.jpg"
+  },
+  {
+    "name": "Spectre",
+    "_id": "65caacb24da4b1f6eae2e30c",
+    "firstAppearance": "More Fun Comics #52 (February, 1940)",
+    "publisher": "Aztar",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/613-spectre.jpg"
+  },
+  {
+    "name": "Speedy",
+    "_id": "65caacb24da4b1f6eae2e30d",
+    "firstAppearance": "Arrow (TV Series) - \"Pilot\"",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/615-speedy.jpg"
+  },
+  {
+    "name": "Spider-Girl",
+    "_id": "65caacb24da4b1f6eae2e30e",
+    "firstAppearance": "What If? Vol 2 #105 (February, 1998)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/618-spider-girl.jpg"
+  },
+  {
+    "name": "Spider-Gwen",
+    "_id": "65caacb24da4b1f6eae2e30f",
+    "firstAppearance": "Edge of Spider-Verse #2",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/619-spider-gwen.jpg"
+  },
+  {
+    "name": "Spider-Man",
+    "_id": "65caacb24da4b1f6eae2e310",
+    "firstAppearance": "Amazing Fantasy #15",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/620-spider-man.jpg"
+  },
+  {
+    "name": "Spider-Woman",
+    "_id": "65caacb24da4b1f6eae2e311",
+    "firstAppearance": "Marvel Spotlight #32 (February, 1977)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/623-spider-woman.jpg"
+  },
+  {
+    "name": "Spider-Woman III",
+    "_id": "65caacb24da4b1f6eae2e312",
+    "firstAppearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/625-spider-woman-iii.jpg"
+  },
+  {
+    "name": "Spock",
+    "_id": "65caacb24da4b1f6eae2e313",
+    "firstAppearance": "Star Trek S01E01: The Man Trap",
+    "publisher": "Star Trek",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/627-spock.jpg"
+  },
+  {
+    "name": "Spyke",
+    "_id": "65caacb24da4b1f6eae2e314",
+    "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/628-spyke.jpg"
+  },
+  {
+    "name": "Star-Lord",
+    "_id": "65caacb24da4b1f6eae2e315",
+    "firstAppearance": "Marvel Preview #4 (January, 1976)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/630-star-lord.jpg"
+  },
+  {
+    "name": "Stardust",
+    "_id": "65caacb24da4b1f6eae2e316",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/631-stardust.jpg"
+  },
+  {
+    "name": "Starfire",
+    "_id": "65caacb24da4b1f6eae2e317",
+    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/632-starfire.jpg"
+  },
+  {
+    "name": "Stargirl",
+    "_id": "65caacb24da4b1f6eae2e318",
+    "firstAppearance": "Stars and S.T.R.I.P.E. #0 (July, 1999)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/633-stargirl.jpg"
+  },
+  {
+    "name": "Static",
+    "_id": "65caacb24da4b1f6eae2e319",
+    "firstAppearance": "Static #1 (June, 1993)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/634-static.jpg"
+  },
+  {
+    "name": "Steel",
+    "_id": "65caacb24da4b1f6eae2e31a",
+    "firstAppearance": "Adventures of Superman #500 (1993)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/635-steel.jpg"
+  },
+  {
+    "name": "Stephanie Powell",
+    "_id": "65caacb24da4b1f6eae2e31b",
+    "firstAppearance": "No Ordinary Family S01E01 (2010)",
+    "publisher": "ABC Studios",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/636-stephanie-powell.jpg"
+  },
+  {
+    "name": "Steppenwolf",
+    "_id": "65caacb24da4b1f6eae2e31c",
+    "firstAppearance": "The New Gods #7",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/637-steppenwolf.jpg"
+  },
+  {
+    "name": "Storm",
+    "_id": "65caacb24da4b1f6eae2e31d",
+    "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/638-storm.jpg"
+  },
+  {
+    "name": "Stormtrooper",
+    "_id": "65caacb24da4b1f6eae2e31e",
+    "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/639-stormtrooper.jpg"
+  },
+  {
+    "name": "Sunspot",
+    "_id": "65caacb24da4b1f6eae2e31f",
+    "firstAppearance": "Marvel Graphic Novel #4 (October, 1982)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/640-sunspot.jpg"
+  },
+  {
+    "name": "Superboy",
+    "_id": "65caacb24da4b1f6eae2e320",
+    "firstAppearance": "Adventures of Superman #500 (June, 1993)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/641-superboy.jpg"
+  },
+  {
+    "name": "Superboy-Prime",
+    "_id": "65caacb24da4b1f6eae2e321",
+    "firstAppearance": "DC Comics Presents #87 (November, 1985)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/642-superboy-prime.jpg"
+  },
+  {
+    "name": "Supergirl",
+    "_id": "65caacb24da4b1f6eae2e322",
+    "firstAppearance": "Superman/Batman #8 (May, 2004)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/643-supergirl.jpg"
+  },
+  {
+    "name": "Superman",
+    "_id": "65caacb24da4b1f6eae2e323",
+    "firstAppearance": "ACTION COMICS #1",
+    "publisher": "Superman Prime One-Million",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/644-superman.jpg"
+  },
+  {
+    "name": "Swamp Thing",
+    "_id": "65caacb24da4b1f6eae2e324",
+    "firstAppearance": "Swamp Thing #1 (November, 1972)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/645-swamp-thing.jpg"
+  },
+  {
+    "name": "Swarm",
+    "_id": "65caacb24da4b1f6eae2e325",
+    "firstAppearance": "Champions #14 (July, 1977)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/646-swarm.jpg"
+  },
+  {
+    "name": "Sylar",
+    "_id": "65caacb24da4b1f6eae2e326",
+    "firstAppearance": "-",
+    "publisher": "NBC - Heroes",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/647-sylar.jpg"
+  },
+  {
+    "name": "Synch",
+    "_id": "65caacb24da4b1f6eae2e327",
+    "firstAppearance": "X-Men #36 (1994)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/648-synch.jpg"
+  },
+  {
+    "name": "T-1000",
+    "_id": "65caacb24da4b1f6eae2e328",
+    "firstAppearance": "Terminator 2: Judgment Day",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/649-t-1000.jpg"
+  },
+  {
+    "name": "T-800",
+    "_id": "65caacb24da4b1f6eae2e329",
+    "firstAppearance": "The Terminator (1984)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/650-t-800.jpg"
+  },
+  {
+    "name": "T-850",
+    "_id": "65caacb24da4b1f6eae2e32a",
+    "firstAppearance": "Terminator 3: Rise of the Machines (2003)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/651-t-850.jpg"
+  },
+  {
+    "name": "T-X",
+    "_id": "65caacb24da4b1f6eae2e32b",
+    "firstAppearance": "-",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/652-t-x.jpg"
+  },
+  {
+    "name": "Taskmaster",
+    "_id": "65caacb24da4b1f6eae2e32c",
+    "firstAppearance": "Avengers #195",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/653-taskmaster.jpg"
+  },
+  {
+    "name": "Tempest",
+    "_id": "65caacb24da4b1f6eae2e32d",
+    "firstAppearance": "New X-Men #118 (November, 2001)",
+    "publisher": "Angel Salvadore",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/654-tempest.jpg"
+  },
+  {
+    "name": "Thanos",
+    "_id": "65caacb24da4b1f6eae2e32e",
+    "firstAppearance": "Iron Man #55",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/655-thanos.jpg"
+  },
+  {
+    "name": "The Cape",
+    "_id": "65caacb24da4b1f6eae2e32f",
+    "firstAppearance": "The Cape S01E01 (2011)",
+    "publisher": null,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/656-the-cape.jpg"
+  },
+  {
+    "name": "The Comedian",
+    "_id": "65caacb24da4b1f6eae2e330",
+    "firstAppearance": "Watchmen #1 (September, 1986)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/657-the-comedian.jpg"
+  },
+  {
+    "name": "Thing",
+    "_id": "65caacb24da4b1f6eae2e331",
+    "firstAppearance": "Fantastic Four #1 (November, 1961)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/658-thing.jpg"
+  },
+  {
+    "name": "Thor",
+    "_id": "65caacb24da4b1f6eae2e332",
+    "firstAppearance": "Journey into Mystery #83 (August, 1962)",
+    "publisher": "Rune King Thor",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/659-thor.jpg"
+  },
+  {
+    "name": "Thor Girl",
+    "_id": "65caacb24da4b1f6eae2e333",
+    "firstAppearance": "Thor, Volume 2, #22; (as Thor Girl) Thor, Volume 2, #33",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/660-thor-girl.jpg"
+  },
+  {
+    "name": "Thunderbird",
+    "_id": "65caacb24da4b1f6eae2e334",
+    "firstAppearance": "Giant-Size X-Men #1 (1975)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/661-thunderbird.jpg"
+  },
+  {
+    "name": "Thunderstrike",
+    "_id": "65caacb24da4b1f6eae2e335",
+    "firstAppearance": "(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/664-thunderstrike.jpg"
+  },
+  {
+    "name": "Thundra",
+    "_id": "65caacb24da4b1f6eae2e336",
+    "firstAppearance": "Fantastic Four #129 (December, 1972)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/665-thundra.jpg"
+  },
+  {
+    "name": "Tiger Shark",
+    "_id": "65caacb24da4b1f6eae2e337",
+    "firstAppearance": "Sub-Mariner #5 (September, 1968)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/666-tiger-shark.jpg"
+  },
+  {
+    "name": "Tigra",
+    "_id": "65caacb24da4b1f6eae2e338",
+    "firstAppearance": "The Cat #1",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/667-tigra.jpg"
+  },
+  {
+    "name": "Tinkerer",
+    "_id": "65caacb24da4b1f6eae2e339",
+    "firstAppearance": "Amazing Spider-Man #2 (1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/668-tinkerer.jpg"
+  },
+  {
+    "name": "Toad",
+    "_id": "65caacb24da4b1f6eae2e33a",
+    "firstAppearance": "X-Men #4 (March, 1964)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/670-toad.jpg"
+  },
+  {
+    "name": "Toxin",
+    "_id": "65caacb24da4b1f6eae2e33b",
+    "firstAppearance": "Venom vs. Carnage #1 (2004)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/671-toxin.jpg"
+  },
+  {
+    "name": "Toxin",
+    "_id": "65caacb24da4b1f6eae2e33c",
+    "firstAppearance": "Venom Vol 2 #17",
+    "publisher": "Anti-Venom",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/672-toxin.jpg"
+  },
+  {
+    "name": "Triplicate Girl",
+    "_id": "65caacb24da4b1f6eae2e33d",
+    "firstAppearance": "Teen Titans/Legion Special #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/676-triplicate-girl.jpg"
+  },
+  {
+    "name": "Triton",
+    "_id": "65caacb24da4b1f6eae2e33e",
+    "firstAppearance": "Fantastic Four #45 (December, 1965)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/677-triton.jpg"
+  },
+  {
+    "name": "Two-Face",
+    "_id": "65caacb24da4b1f6eae2e33f",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/678-two-face.jpg"
+  },
+  {
+    "name": "Ultragirl",
+    "_id": "65caacb24da4b1f6eae2e340",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/679-ultragirl.jpg"
+  },
+  {
+    "name": "Ultron",
+    "_id": "65caacb24da4b1f6eae2e341",
+    "firstAppearance": "Avengers #54 (July, 1968)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/680-ultron.jpg"
+  },
+  {
+    "name": "Utgard-Loki",
+    "_id": "65caacb24da4b1f6eae2e342",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/681-utgard-loki.jpg"
+  },
+  {
+    "name": "Vanisher",
+    "_id": "65caacb24da4b1f6eae2e343",
+    "firstAppearance": "X-Men (Vol 1) #2",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/685-vanisher.jpg"
+  },
+  {
+    "name": "Vegeta",
+    "_id": "65caacb24da4b1f6eae2e344",
+    "firstAppearance": "Dragon Ball #17",
+    "publisher": "Shueisha",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/686-vegeta.jpg"
+  },
+  {
+    "name": "Venom",
+    "_id": "65caacb24da4b1f6eae2e345",
+    "firstAppearance": "(as alien costume) Secret Wars #8, (behind the scenes) Web of Spider-Man #18, (actual appearance) Amazing Spider-Man #300",
+    "publisher": "Anti-Venom",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/687-venom.jpg"
+  },
+  {
+    "name": "Venom II",
+    "_id": "65caacb24da4b1f6eae2e346",
+    "firstAppearance": "Marvel Knights Spider-Man #7 (2005)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/688-venom-ii.jpg"
+  },
+  {
+    "name": "Venom III",
+    "_id": "65caacb24da4b1f6eae2e347",
+    "firstAppearance": "(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005)",
+    "publisher": "Scorpion",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/689-venom-iii.jpg"
+  },
+  {
+    "name": "Venompool",
+    "_id": "65caacb24da4b1f6eae2e348",
+    "firstAppearance": "What If? Iron Man: Demon in an Armor #1 (February, 2011)",
+    "publisher": "Deadpool",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/690-venompool.jpg"
+  },
+  {
+    "name": "Vibe",
+    "_id": "65caacb24da4b1f6eae2e349",
+    "firstAppearance": "The New 52: FCBD Special Edition #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/692-vibe.jpg"
+  },
+  {
+    "name": "Vindicator",
+    "_id": "65caacb24da4b1f6eae2e34a",
+    "firstAppearance": "X-Men #139 (November, 1980)",
+    "publisher": "Vindicator II",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/693-vindicator.jpg"
+  },
+  {
+    "name": "Violet Parr",
+    "_id": "65caacb24da4b1f6eae2e34b",
+    "firstAppearance": "The Incredibles (Movies, 2004)",
+    "publisher": "Dark Horse Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/696-violet-parr.jpg"
+  },
+  {
+    "name": "Vision",
+    "_id": "65caacb24da4b1f6eae2e34c",
+    "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4",
+    "publisher": "Anti-Vision",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/697-vision.jpg"
+  },
+  {
+    "name": "Vixen",
+    "_id": "65caacb24da4b1f6eae2e34d",
+    "firstAppearance": "Action Comics #521 (July, 1981)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/699-vixen.jpg"
+  },
+  {
+    "name": "Vulture",
+    "_id": "65caacb24da4b1f6eae2e34e",
+    "firstAppearance": "Amazing Spider-Man #2",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/701-vulture.jpg"
+  },
+  {
+    "name": "Walrus",
+    "_id": "65caacb24da4b1f6eae2e34f",
+    "firstAppearance": "Defenders #131 (May, 1984)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/702-walrus.jpg"
+  },
+  {
+    "name": "War Machine",
+    "_id": "65caacb24da4b1f6eae2e350",
+    "firstAppearance": "Iron Man #118 (1979)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/703-war-machine.jpg"
+  },
+  {
+    "name": "Warlock",
+    "_id": "65caacb24da4b1f6eae2e351",
+    "firstAppearance": "Fantastic Four #66",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/705-warlock.jpg"
+  },
+  {
+    "name": "Warp",
+    "_id": "65caacb24da4b1f6eae2e352",
+    "firstAppearance": "The New Teen Titans #14 (December 1981)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/706-warp.jpg"
+  },
+  {
+    "name": "Warpath",
+    "_id": "65caacb24da4b1f6eae2e353",
+    "firstAppearance": "New Mutants #16 (June, 1984)",
+    "publisher": "Thunderbird II",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/707-warpath.jpg"
+  },
+  {
+    "name": "Wasp",
+    "_id": "65caacb24da4b1f6eae2e354",
+    "firstAppearance": "TALES TO ASTONISH #44",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/708-wasp.jpg"
+  },
+  {
+    "name": "Watcher",
+    "_id": "65caacb24da4b1f6eae2e355",
+    "firstAppearance": "Fantastic Four #13 (April, 1963)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/709-watcher.jpg"
+  },
+  {
+    "name": "White Canary",
+    "_id": "65caacb24da4b1f6eae2e356",
+    "firstAppearance": "Birds of Prey #1",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/711-white-canary.jpg"
+  },
+  {
+    "name": "Wildfire",
+    "_id": "65caacb24da4b1f6eae2e357",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/713-wildfire.jpg"
+  },
+  {
+    "name": "Winter Soldier",
+    "_id": "65caacb24da4b1f6eae2e358",
+    "firstAppearance": "Captain America Vol 5 #1 (January, 2005) (as Winter Soldier)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/714-winter-soldier.jpg"
+  },
+  {
+    "name": "Wolfsbane",
+    "_id": "65caacb24da4b1f6eae2e359",
+    "firstAppearance": "Marvel Graphic Novel #4: New Mutants",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/716-wolfsbane.jpg"
+  },
+  {
+    "name": "Wolverine",
+    "_id": "65caacb24da4b1f6eae2e35a",
+    "firstAppearance": "Incredible Hulk Vol. 2 #180",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/717-wolverine.jpg"
+  },
+  {
+    "name": "Wonder Girl",
+    "_id": "65caacb24da4b1f6eae2e35b",
+    "firstAppearance": "Wonder Woman (vol. 2) #105 (January 1996)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/718-wonder-girl.jpg"
+  },
+  {
+    "name": "Wonder Man",
+    "_id": "65caacb24da4b1f6eae2e35c",
+    "firstAppearance": "AVENGERS #9",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/719-wonder-man.jpg"
+  },
+  {
+    "name": "Wonder Woman",
+    "_id": "65caacb24da4b1f6eae2e35d",
+    "firstAppearance": "All-Star Comics #8 (December, 1941)",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/720-wonder-woman.jpg"
+  },
+  {
+    "name": "Wyatt Wingfoot",
+    "_id": "65caacb24da4b1f6eae2e35e",
+    "firstAppearance": "FANTASTIC FOUR #50",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/722-wyatt-wingfoot.jpg"
+  },
+  {
+    "name": "X-23",
+    "_id": "65caacb24da4b1f6eae2e35f",
+    "firstAppearance": "NYX #3",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/723-x-23.jpg"
+  },
+  {
+    "name": "X-Man",
+    "_id": "65caacb24da4b1f6eae2e360",
+    "firstAppearance": "X-Man #1 (1995)",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/724-x-man.jpg"
+  },
+  {
+    "name": "Yellowjacket",
+    "_id": "65caacb24da4b1f6eae2e361",
+    "firstAppearance": "(as Pym) TALES TO ASTONISH #27, (as Ant-Man) TALES TO ASTONISH #35, (as Giant-Man) TALES TO ASTONISH #49, (as Goliath) AVENGERS #28, (as Yellowjacket) AVENGERS #59",
+    "publisher": "Ant-Man",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/726-yellowjacket.jpg"
+  },
+  {
+    "name": "Yellowjacket II",
+    "_id": "65caacb24da4b1f6eae2e362",
+    "firstAppearance": "Avengers #264",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/727-yellowjacket-ii.jpg"
+  },
+  {
+    "name": "Ymir",
+    "_id": "65caacb24da4b1f6eae2e363",
+    "firstAppearance": "JOURNEY INTO MYSTERY #97",
+    "publisher": "Marvel Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/728-ymir.jpg"
+  },
+  {
+    "name": "Yoda",
+    "_id": "65caacb24da4b1f6eae2e364",
+    "firstAppearance": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+    "publisher": "George Lucas",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/729-yoda.jpg"
+  },
+  {
+    "name": "Zatanna",
+    "_id": "65caacb24da4b1f6eae2e365",
+    "firstAppearance": "Hawkman #4",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/730-zatanna.jpg"
+  },
+  {
+    "name": "Zoom",
+    "_id": "65caacb24da4b1f6eae2e366",
+    "firstAppearance": "Flash Secret Files #3",
+    "publisher": "DC Comics",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/731-zoom.jpg"
+  }
+]
