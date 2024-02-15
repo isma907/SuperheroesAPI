@@ -65,7 +65,11 @@ export const getHeroById = async (req: Request, res: Response) => {
 
     const jsonData = JSON.parse(data);
     const hero = jsonData.filter((item: Hero) => item._id == id)[0];
-    res.send(hero);
+    if (hero) {
+      res.send(hero);
+    } else {
+      res.status(404).json({ error: "Item not found" });
+    }
   });
 };
 
@@ -86,7 +90,18 @@ export const addItem = async (req: Request, res: Response) => {
       jsonData = JSON.parse(data) as Hero[];
     }
 
-    // Add the new item to the beginning of the array
+    const existingItem = jsonData.find(
+      (item) =>
+        item._id === newItem._id ||
+        item.name.toLowerCase() === newItem.name.toLowerCase()
+    );
+    if (existingItem) {
+      res
+        .status(400)
+        .json({ error: "Ya Existe un superheroe con este nombre" });
+      return;
+    }
+
     jsonData.unshift(newItem);
 
     fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), (err) => {
@@ -129,7 +144,7 @@ export const updateItem = async (req: Request, res: Response) => {
         return;
       }
 
-      res.json({ message: "Item updated successfully" });
+      res.json(updatedItem);
     });
   });
 };
