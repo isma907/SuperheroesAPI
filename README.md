@@ -7,7 +7,7 @@ Your database is the `superheroes.json` file
 All changes will impact on that file.
 
 
-##Instalation
+# Instalation
 
 `npm install`
 
